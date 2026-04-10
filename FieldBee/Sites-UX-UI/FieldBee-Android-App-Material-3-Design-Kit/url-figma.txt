@@ -1,0 +1,11 @@
+Редизайн FieldBee Android додатку у Figma, сторінки Get started.
+https://www.figma.com/file/nr7KpdLkLcvNXlwVeamfY6/Material-3-Design-Kit-(Community)---FieldBee?node-id=51482%3A5059&t=t58cZf64FYwBjhCo-1
+
+На основі Material Design 3 kit 
+https://www.figma.com/community/file/1035203688168086460
+треба було зробити новий стиль всіх графічних елементів на основі кольорів брендбуку компанії та зробити редизайн декількох екранів додатку.
+Редизайн робив на основі минулих макетів версії Material Design 2.
+
+https://www.figma.com/file/nr7KpdLkLcvNXlwVeamfY6/Material-3-Design-Kit-(Community)---FieldBee?node-id=49823%3A12142&t=t58cZf64FYwBjhCo-1
+https://www.figma.com/file/nr7KpdLkLcvNXlwVeamfY6/Material-3-Design-Kit-(Community)---FieldBee?node-id=50716%3A11360&t=t58cZf64FYwBjhCo-1
+
