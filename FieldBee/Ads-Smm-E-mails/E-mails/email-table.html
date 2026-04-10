@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Email table</title>
+        <style>
+            .emailTableFieldbeeCalculator, .emailTableFieldbeeCalculatorP  {
+                font-family: Arial;
+                font-size: 15px;
+            }
+            .emailTableFieldbeeCalculator a {
+                color:#F2BD00;
+            }            
+            .emailTableFieldbeeCalculator tr td {
+                border-bottom:1px solid #C1CFDB;
+                border-right:1px solid #C1CFDB;
+                padding: 8px 12px;
+                vertical-align:middle;               
+                text-align: center;
+                font-family: Arial;
+                font-size: 15px;
+                color:#787878;
+            }
+            /* @media only screen and (max-width: 520px) {
+                .emailTableFieldbeeCalculator tr td {
+                  word-break:break-all;
+                }
+                .emailTableFieldbeeCalculator tr:last-child td {
+                  word-break:normal;
+                }                      
+            }       */
+            .emailTableFieldbeeCalculator tr:first-child td {
+                border-top:1px solid #C1CFDB;                
+                border-bottom:1px solid #C1CFDB;
+                border-right:1px solid #C1CFDB;
+                background-color: #e8edf4;
+                color:#333333;                
+                vertical-align:middle;
+                text-align: left;
+                font-weight: bolder;
+                max-width: 85px;
+            }
+            .emailTableFieldbeeCalculator tr:last-child td {
+                text-align: left;
+                background-color: #fffae9; 
+            }
+            .emailTableFieldbeeCalculator tr td:first-child {
+                border-left:1px solid #C1CFDB;                
+                border-bottom:1px solid #C1CFDB;
+                border-right:1px solid #C1CFDB;
+                background-color: #F5F8FA;
+                color:#333333;                
+                text-align: left;
+                font-weight: bolder;
+                max-width: 145px;
+            }
+            .emailTableFieldbeeCalculator tr:first-child td:first-child { 
+                background-color: #e8edf4;
+            }
+            .emailTableFieldbeeCalculator tr:last-child td:first-child { 
+                background-color: #fffae9;
+            }
+            .emailTableFieldbeeCalculator .highlighted{
+                color:#333333;
+                font-weight: bold;
+
+            }
+        </style>
+    </head>
+
+    <body>
+        <table class="emailTableFieldbeeCalculator" cellpadding="0" and cellspacing="0">
+            <tr>
+                <td></td>
+                <td>RTK GNSS Receiver</td>
+                <td>Mechanical Autosteer</td>
+                <td>Hydraulic Autosteer</td>
+                <td>PowerSteer</td>
+            </tr>
+            <tr>
+                <td>Precision</td>
+                <td class="highlighted">+-2 cm</td>
+                <td class="highlighted">+-2 cm</td>
+                <td class="highlighted">+-2 cm</td>
+                <td class="highlighted">+-2 cm</td>
+            </tr>
+            <tr>
+                <td>Fuel and fertiliser savings</td>
+                <td>10%</td>
+                <td class="highlighted">15%</td>
+                <td class="highlighted">15%</td>
+                <td class="highlighted">15%</td>
+            </tr>
+            <tr>
+                <td>Autosteer</td>
+                <td>no</td>
+                <td class="highlighted">yes</td>
+                <td class="highlighted">yes</td>
+                <td class="highlighted">yes</td>
+            </tr>
+            <tr>
+                <td>Can be moved between tractors</td>
+                <td>no</td>
+                <td class="highlighted">yes</td>
+                <td>no</td>
+                <td class="highlighted">yes</td>
+            </tr>
+            <tr>
+                <td>Installation time, hours</td>
+                <td class="highlighted">1/2</td>
+                <td>4</td>
+                <td>7</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>Tablet included</td>
+                <td>no</td>
+                <td>no</td>
+                <td>no</td>
+                <td class="highlighted">yes*</td>
+            </tr>
+            <tr>
+                <td>Low Speed modification</td>
+                <td>no</td>
+                <td>no</td>
+                <td>no</td>
+                <td class="highlighted">yes*</td>
+            </tr>
+            <tr>
+                <td>Payback period for 10 ha of potatoes (seasons as estimated by the <a href="https://calc.fieldbee.com/en/" target="_blank">Fieldbee Calculator</a>)</td>
+                <td class="highlighted">0.9</td>
+                <td>2.5</td>
+                <td>3.4</td>
+                <td>1.7</td>
+            </tr>
+            <tr>
+                <td>Price</td>
+                <td class="highlighted">from €1434</td>
+                <td>from €5500</td>
+                <td>from €7500</td>
+                <td>from €3490</td>
+            </tr>                                                                                                
+        </table>
+        <p class="emailTableFieldbeeCalculatorP">* Installed as an addition</p>
+    </body>
+</html>
