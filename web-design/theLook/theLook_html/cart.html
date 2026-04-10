@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>the LOOK</title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="css/craftyslide.css" />  
+	<link href="css/dropdown/dropdown.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="css/dropdown/themes/theLOOK/default.advanced.css" media="screen" rel="stylesheet" type="text/css" />    
+	<link href="css/scrollPage.css" media="screen" rel="stylesheet" type="text/css" />        
+    <script src="js/jquery.min.js"></script>
+    <script src="js/craftyslide.min.js"></script>
+	<script src="js/jquery.color.js"></script> 
+	<script src="js/scripts.js"></script>  
+</head>
+<body>
+	<div id="base">
+    	<!-- header -->
+		<div id="header">
+        	<div>
+                <div id="header_phone">(044) 321 45 45<br/>(044) 322 32 23</div>
+                <div id="header_logo"><a href="index.html"><img src="img/theLOOK.png" alt="" width="226" height="90" /></a></div>
+                <div id="header_search">
+                	<div id="header_search_links"><a class="url" href="login.html" onmouseover="anichangeLogin('#loginArea'); return false">ВХОД</a> <span id="header_search_links_2"><a class="url" href="login.html">РЕГИСТРАЦИЯ</a></span></div>	
+                    <div id="top_search">
+                    	<form>
+							<input type="text" name="form_search" id="form_search" value="поиск товара" onclick="this.value=''" onblur="if (this.value.replace(/\s+/g,'') == '') {this.value='поиск товара'}" />
+							<input type="submit" value="" name="submit" id="submit" />                    
+                        </form>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div id="loginArea"> 
+                <form>
+                    <div>
+                        <div class="loginArea1">
+                            <div><input type="text" name="form_login" id="form_login" value="Login" onclick="this.value=''" onblur="if (this.value.replace(/\s+/g,'') == '') {this.value='Login'}" /></div>                        
+                            <div class="loginArea1Pass"><input type="password" name="form_pass" id="form_pass" value="password" onclick="this.value=''" onblur="if (this.value.replace(/\s+/g,'') == '') {this.value='password'}" /></div>
+                        </div>
+                        <div class="loginArea2"><input type="submit" value="Вход" name="submit" class="button buttonEnter" /></div>
+                        <div class="clear"></div>
+                    </div>                  
+                    <div class="loginArea1links"><a href="remember.html">Забыли пароль</a><span><label><input type="checkbox" checked="checked" />&nbsp;Запомнить меня</label></span></div>
+                </form>            
+            </div>
+            <!-- menu -->
+			<div id="header_menu">
+            	<div id="header_menu_first">
+                    <ul class="dropdown dropdown-horizontal">
+                        <li><a href="catalog.html" class="dir">WOMAN</a>
+                            <ul>
+                                <li><a href="catalog.html">Верхняя одежда</a></li>
+                                <li><a href="catalog.html">Сумки</a></li>
+                                <li><a href="catalog.html">Обувь</a></li>
+                                <li><a href="catalog.html">Одежда</a></li>                                
+                            </ul>
+                        </li>
+                        <li><a href="catalog.html" class="dir">MAN</a>
+                            <ul>
+                                <li><a href="catalog.html">Верхняя одежда</a></li>
+                                <li><a href="catalog.html">Сумки</a></li>
+                                <li><a href="catalog.html">Обувь</a></li>
+                                <li><a href="catalog.html">Одежда</a></li>  
+                            </ul>
+                        </li>  
+                        <li><a href="catalog.html" class="dir">CHILDREN</a>
+                            <ul>
+                                <li><a href="catalog.html">Одежда</a></li>
+                            </ul>
+                        </li>                                                
+                    </ul>                
+				</div>
+            	<div id="header_menu_last">
+                    <ul>
+                        <li><a href="#">ОПЛАТА</a></li>
+                        <li><a href="#">ДОСТАВКА</a></li>
+                        <li><a href="#">КОНТАКТЫ</a></li>
+                    </ul>
+				</div>
+                <div class="clear"></div>
+			</div>
+            <!-- end menu -->
+		</div>
+        <!-- end header -->
+        <!-- main -->
+        <div id="main">
+        	<!-- left block -->
+        	<div id="catalogMenu">
+            	<div id="catalogMenuTitle">Моя корзина</div>
+                <ul>
+                	<a href="#"><li>Личные данные</li></a>
+                	<a href="#"><li>Мои адреса</li></a>
+                    <a href="#"><li>Wishlist</li></a>
+                    <a href="#"><li>Дисконтные карты</li></a>
+                	<li class="active">Моя корзина</li> 
+                	<a href="#"><li>Мои покупки</li></a>
+                    <a href="#"><li>Мои сертификаты</li></a> 
+                </ul>
+            </div>
+        	<!-- end left block -->
+            <!-- right center block -->
+        	<div id="catalogMain">
+              <form id="cartform" action="/usrdo/" method="post">
+                  <input name="op" id="formop" type="hidden" /> 
+                  <input name="next" type="hidden" value="/user/donebuy.html" />
+                  <div class="control-links"><a class="delete-item" id="delitm" href="#">удалить</a> 
+                  <a class="add-to-dreambox" id="edtcart" href="#">пересчитать</a></div>
+                  <table class="basket-content">
+                    <thead>
+                        <tr>
+                          <th width="50">&nbsp;</th>
+                          <th width="100">продукт </th>
+                          <th width="250">описание </th>
+                          <th width="100">цвет</th>
+                          <th width="75">размер</th>
+                          <th width="75">кол-во</th>
+                          <th width="100">цена</th>
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                          <td colspan="7">
+                            <table align="right" class="result">
+                              <tbody>
+                                  <tr class="summa">
+                                    <td>итого: 2848 грн.</td>
+                                  </tr>
+                                  <tr class="buy">
+                                    <td><input id="buyitm" type="submit" class="button" value="Оформить заказ" name="submit" /></td>
+                                  </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                        <tr class="odd">
+                          <td><input name="markitem[11777]" type="checkbox" value="1"></td>
+                          <td><a href="#"><img src="img/product1sm.jpg" width="70" height="105" /></a></td>
+                          <td class="alignLeft"><p class="name"><a href="#">christian louboutin</a></p>туфли из кожи алигатора lady peep 150 croco lucido</td>
+                          <td>синий</td>
+                          <td>36</td>
+                          <td><input name="quantity[11777]" class="amount" type="text" value="1"></td>
+                          <td><div style="white-space: nowrap;">2070 грн.</div></td>
+                        </tr>
+                        <tr class="even">
+                          <td><input name="markitem[11538]" type="checkbox" value="1"></td>
+                          <td><a href="#"><img src="img/product2sm.jpg" width="70" height="105" /></a></td>
+                          <td class="alignLeft"><p class="name"><a href="#">christian louboutin</a></p>кожаные туфли lady peep 150 python fresh</td>
+                          <td>зеленый</td>
+                          <td>35.5</td>
+                          <td><input name="quantity[11538]" class="amount" type="text" value="1"></td>
+                          <td><div style="white-space: nowrap;">630 грн.</div></td></tr>
+                        <tr class="odd">
+                          <td><input name="markitem[10234]" type="checkbox" value="1"></td>
+                          <td><a href="#"><img src="img/product3sm.jpg" width="70" height="105" /></a></td>
+                          <td class="alignLeft"><p class="name"><a href="#">charlotte olympia</a></p>туфли на высоком каблуке с открытым носом delphine</td>
+                          <td>красный</td>
+                          <td>38.5</td>
+                          <td><input name="quantity[10234]" class="amount" type="text" value="1"></td>
+                          <td><div style="white-space: nowrap;">148 грн.</div></td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </form>
+            </div>
+            <!-- end right center block -->            
+            <div class="clear"></div>
+        </div>
+        <!-- end main -->        
+        <!-- footer -->
+       	<div id="footer">
+			<div id="footer_menu">
+            	<div id="footer_menu_first">
+                    <ul>
+                        <li><a class="url" href="#">WOMAN</a></li>
+                        <li id="imgPoint"></li>
+                        <li><a class="url" href="#">MAN </a></li>
+                        <li id="imgPoint"></li>
+                        <li><a class="url" href="#">CHILDREN</a></li>
+                    </ul>            
+				</div>
+            	<div id="footer_menu_last">
+                    <ul>
+                        <li><a class="url" href="#">ОПЛАТА</a></li>
+                        <li id="imgPoint"></li>
+                        <li><a class="url" href="#">ДОСТАВКА</a></li>
+                        <li id="imgPoint"></li>
+                        <li><a class="url" href="#">КОНТАКТЫ</a></li>
+                    </ul>
+				</div>
+                <div class="clear"></div>
+			</div>
+            <table><tr><td align="center">© 2013<span id="theLOOKsm"><img src="img/theLOOKsm.png" width="50" height="17" alt="" /></span></td></tr></table>
+		</div>
+        <!-- end footer -->  
+	</div>
+    <br/>
+    <div id="icons">
+    	<div id="icons1"><a href="#"><img src="img/iconFacebook.png" width="37" height="37" alt=""/></a></div>
+    	<div id="icons2"><a href="#"><img src="img/iconInstra.png" width="37" height="37" alt=""/></a></div>
+    	<div id="icons3"><a href="#"><img src="img/iconVK.png" width="37" height="37" alt=""/></a></div>
+        <a href="cart.html"><div id="icons4"><table><tr><td>3</td></tr></table></div></a>
+    </div>
+    <!-- up button -->
+    <p id="back-top"><a href="#top"><span></span></a></p>
+    <!-- end up button -->    
+</body>
+</html>    

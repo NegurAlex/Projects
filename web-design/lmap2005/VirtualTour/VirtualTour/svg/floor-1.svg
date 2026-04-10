@@ -1,0 +1,694 @@
+<!-- edited with XMLSPY v5 (http://www.xmlspy.com) by Vlad Josef Kossov (Dr Levits Medical Center) -->
+<svg width="769" height="305" viewBox="0 0 600 250" overflow="visible" enable-background="new 0 0600 250" xml:space="preserve">
+	<defs>
+		<script xlink:href="script/menu.js" language="JavaScript"/>
+		<linearGradient id="fon1" x1="0" y1="-130px" x2="0" y2="80" gradientUnits="userSpaceOnUse">
+			<stop offset="40%" style="stop-color:#A3DCFD"/>
+			<stop offset="100%" style="stop-color:#A3DCFD"/>
+		</linearGradient>
+		<linearGradient id="fon2" x1="0" y1="-75px" x2="0" y2="80" gradientUnits="userSpaceOnUse">
+			<stop offset="100%" style="stop-color:#DF9E04"/>
+			<stop offset="100%" style="stop-color:#DF9E04"/>
+		</linearGradient>
+		<linearGradient id="fon3" x1="0" y1="-75px" x2="0" y2="80" gradientUnits="userSpaceOnUse">
+			<stop offset="15%" style="stop-color:#009941"/>
+			<stop offset="100%" style="stop-color:#009941"/>
+		</linearGradient>
+	</defs>
+	<g transform="translate(10,10)" id="Shema">
+		<!-- Element Etalon -->
+		<g>
+			<!-- Chair -->
+			<g id="Chair">
+				<path fill="#67A19F" stroke="#212125" d="M9,3.2119141c0,1.5185547-1.2314453,2.75-2.75,2.75h-3
+			c-1.5185547,0-2.75-1.2314453-2.75-2.75c0-1.5185547,1.2314453-2.75,2.75-2.75h3C7.7685547,0.4619141,9,1.6933594,9,3.2119141z"/>
+				<path fill="#67A19F" stroke="#212125" d="M8.5,6.1401367c0,0.5981445-1.0073242,1.0830078-2.25,1.0830078h-3
+			c-1.2426758,0-2.25-0.4848633-2.25-1.0830078c0-0.5981445,1.0073242-1.0830078,2.25-1.0830078h3
+			C7.4926758,5.0571289,8.5,5.5419922,8.5,6.1401367z"/>
+				<path fill="#67A19F" stroke="#212125" d="M1.8125,4.5869141c0,0.4140625-0.2939453,0.75-0.65625,0.75
+			c-0.3623047,0-0.65625-0.3359375-0.65625-0.75v-2.75c0-0.4140625,0.2939453-0.75,0.65625-0.75
+			c0.3623047,0,0.65625,0.3359375,0.65625,0.75V4.5869141z"/>
+				<path fill="#67A19F" stroke="#212125" d="M9,4.5869141c0,0.4140625-0.2939453,0.75-0.65625,0.75
+			c-0.3623047,0-0.65625-0.3359375-0.65625-0.75v-2.75c0-0.4140625,0.2939453-0.75,0.65625-0.75
+			c0.3623047,0,0.65625,0.3359375,0.65625,0.75V4.5869141z"/>
+			</g>
+			<!-- End of Chair -->
+			<!-- Big Chair -->
+			<g id="Big-chair">
+				<path fill="#4879C2" stroke="#000000" d="M14.4902344,6.8535156c0,2.4853516-2.0146484,4.5-4.5,4.5h-5
+			c-2.4853516,0-4.5-2.0146484-4.5-4.5c0-2.4853516,2.0146484-4.5,4.5-4.5h5
+			C12.4755859,2.3535156,14.4902344,4.3681641,14.4902344,6.8535156z"/>
+				<path fill="#2F59AF" stroke="#000000" d="M11.9902344,1.6035156c0,0.6904297-0.5595703,1.25-1.25,1.25h-6.5
+			c-0.6904297,0-1.25-0.5595703-1.25-1.25c0-0.6904297,0.5595703-1.25,1.25-1.25h6.5
+			C11.4306641,0.3535156,11.9902344,0.9130859,11.9902344,1.6035156z"/>
+				<path fill="#2F59AF" stroke="#000000" d="M0.4902344,4.6035156c0-0.6904297,0.5595703-1.25,1.25-1.25
+			c0.6904297,0,1.25,0.5595703,1.25,1.25v4.5c0,0.6904297-0.5595703,1.25-1.25,1.25c-0.6904297,0-1.25-0.5595703-1.25-1.25
+			V4.6035156z"/>
+				<path fill="#2F59AF" stroke="#000000" d="M11.9902344,4.6035156c0-0.6904297,0.5595703-1.25,1.25-1.25
+			c0.6904297,0,1.25,0.5595703,1.25,1.25v4.5c0,0.6904297-0.5595703,1.25-1.25,1.25c-0.6904297,0-1.25-0.5595703-1.25-1.25
+			V4.6035156z"/>
+			</g>
+			<!-- End of Big Chair -->
+			<!-- Wash-stand -->
+			<g id="Wash-stand">
+				<g transform="translate(-6,-1)">
+					<path fill="#E0F7FC" stroke="#1C3795" d="M9.6,7.5h-4v-7h9.6V7.5z"/>
+				</g>
+				<path fill="#FFFFFF" stroke="#1C3795" d="M8.3129883,3.5932617c0,0.9375-0.9741211,1.6977539-2.175293,1.6977539H2.6547852
+			c-1.2011719,0-2.175293-0.7602539-2.175293-1.6977539c0-0.9379883,0.9741211-1.6982422,2.175293-1.6982422h3.4829102
+			C7.3388672,1.8950195,8.3129883,2.6552734,8.3129883,3.5932617z"/>
+				<path fill="#FFFFFF" stroke="#1C3795" d="M5.1152344,0.84375c0,0.1899414-0.1542969,0.34375-0.34375,0.34375h-0.75
+			c-0.1904297,0-0.34375-0.1538086-0.34375-0.34375c0-0.1899414,0.1533203-0.34375,0.34375-0.34375h0.75
+			C4.9609375,0.5,5.1152344,0.6538086,5.1152344,0.84375z"/>
+				<!-- End of Wash-stand -->
+			</g>
+			<!-- Door1 -->
+			<g id="Door1" transform="translate(-2,0)">
+				<path fill="#1C3795" d="M3.875,16H0v-2h3.875V16z"/>
+				<path fill="none" stroke="#CE5A18" stroke-width="2" d="M2.809082,15.9887695
+			C2.8217773,7.6977539,9.5405273,0.9985352,17.831543,1.0112305"/>
+				<path fill="#1C3795" d="M19.831543,16h-2V0h2V16z"/>
+				<path fill="#1C3795" d="M21.8344727,15.9980469l-3.9990234,0.0083008l-0.0039063-2l3.9990234-0.0083008L21.8344727,15.9980469z"/>
+			</g>
+			<!-- End of Door1 -->
+			<!-- Door2 -->
+			<g id="Door2" transform="translate(0,0)">
+				<path fill="none" stroke="#CE5A18" stroke-width="2" d="M2.875,0.9985352
+			c8.2910156,0.0161133,14.9868164,6.7382813,14.9707031,15.0292969"/>
+				<path fill="#1C3795" d="M4.875,16.0131836h-2v-16h2V16.0131836z"/>
+				<path fill="#1C3795" d="M22.8344727,16.0112305l-3.9990234,0.0083008l-0.0039063-2l3.9990234-0.0083008L22.8344727,16.0112305z"/>
+				<path fill="#1C3795" d="M4.875,16.0131836H0v-2h4.875V16.0131836z"/>
+			</g>
+			<!-- End of Door2 -->
+			<!-- Table -->
+			<g id="Table">
+				<rect fill="#E0F7FC" stroke="#1C3795" width="14" height="22"/>
+			</g>
+			<!-- End of Table -->
+			<!-- Chair Room -->
+			<g id="Chair-room">
+				<path fill="#BBF3FF" stroke="#1C3795" d="M11.5,5c0,2.2094727-1.3427734,4-3,4h-4c-1.6572266,0-3-1.7905273-3-4
+			c0-2.2094727,1.3427734-4,3-4h4C10.1572266,1,11.5,2.7905273,11.5,5z"/>
+				<path fill="#BBF3FF" stroke="#1C3795" d="M3.5,9.5h-3v-9h3V9.5z"/>
+			</g>
+			<!-- End of Chair Room -->
+			<!-- Blok -->
+			<g id="Blok">
+				<g>
+					<path fill="#F3F5E0" d="M8.5,7h-8V0h8V7z"/>
+					<path fill="#1C3795" d="M10,2H0V0h10V2z"/>
+					<path fill="#1C3795" d="M10,7H8V0h2V7z"/>
+					<path fill="#1C3795" d="M2,7H0V0h2V7z"/>
+				</g>
+			</g>
+			<!-- End of Blok -->
+			<!-- Corriage -->
+			<g id="Corriage">
+				<g id="Layer_3_2_">
+					<path fill="#F3F5E0" stroke="#3B3D98" d="M10.5,10.5h-10v-10h10V10.5z"/>
+				</g>
+				<g id="Layer_2_2_">
+					<path fill="#F3F5E0" stroke="#3B3D98" d="M7.3125,7.25c0,1.3808594-1.1191406,2.5-2.5,2.5s-2.5-1.1191406-2.5-2.5
+					s1.1191406-2.5,2.5-2.5S7.3125,5.8691406,7.3125,7.25z"/>
+				</g>
+				<g id="Layer_1_2_">
+					<path fill="#3B3D98" d="M7.125,5.4375h-3v-1h3V5.4375z"/>
+					<path fill="#3B3D98" d="M9.375,8.4375h-2v-1h2V8.4375z"/>
+					<path fill="#3B3D98" d="M5.125,5.4375h-1v-2h1V5.4375z"/>
+					<path fill="#3B3D98" d="M9.375,8.125h-1v-2h1V8.125z"/>
+					<path fill="#3B3D98" d="M5.612793,2.625c0,0.5527344-0.4472656,1-0.9995117,1c-0.5527344,0-1.0004883-0.4472656-1.0004883-1
+					s0.4477539-1,1.0004883-1C5.1655273,1.625,5.612793,2.0722656,5.612793,2.625z"/>
+					<path fill="#3B3D98" d="M7.625,6.375h-3.5v-1h3.5V6.375z"/>
+				</g>
+			</g>
+			<!-- End of Corriage -->
+			<!--Detal -->
+			<g id="Detal">
+				<path fill="#1C3795" d="M7.5,3.5888672c0,2.7333984-1.1191406,4.9492188-2.5,4.9492188c-1.3818359,0-2.5-2.2158203-2.5-4.9492188
+					C2.5,0.8549805,7.5,0.8549805,7.5,3.5888672z"/>
+				<path fill="#1C3795" d="M10,0L5,5L0,0H10z"/>
+			</g>
+			<!--End of Detal -->
+		</g>
+		<!-- Element Etalon -->
+		<g id="Rectangle-background" transform="translate(-10,-10)">
+			<path fill="#F1F1F1" stroke="#000000" d="M576,240.5H0.5V0.5h576V240.5z"/>
+		</g>
+		<g id="Skelet">
+			<!-- Background Shema -->
+			<path fill="#E6F5FA" d="M237,217H4V2.0874023h233V217z"/>
+			<path fill="#E6F5FA" d="M263,218h-27V11h27V218z"/>
+			<path fill="#E6F5FA" d="M553,218H263V3h290V218z"/>
+			<!-- End of Background Shema -->
+			<g transform="translate(0,0)">
+				<g>
+					<path d="M502,62h-51V3h51V62z" opacity="0.4" id="room10o" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M171,44h-27V4h27V44z" opacity="0.4" id="room10e" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M83,143H4V83h79V143z" opacity="0.4" id="room10b" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M60,217H4v-72h56V217z" opacity="0.4" id="room10a" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M555,62h-51V3h51V62z" fill="url(#fon1)" id="room10p" opacity="0.4"/>
+				</g>
+				<g>
+					<path d="M100,217H62v-40h38V217z" opacity="0.4" id="room10n" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M164,217h-62v-40h62V217z" opacity="0.4" id="room10m" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M201,217h-36v-40h36V217z" opacity="0.4" id="room10l" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M202,175h-7v-28h7V175z" opacity="0.4" id="room10l1" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M144,61h-30V4h30V61z" opacity="0.4" id="room10da" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M149,61h-5V46.0834961h5V61z" opacity="0.4" id="room10db" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M553,216H404v-83h149V216z" opacity="0.4" id="room10qa" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M457,133h-60v-7h60V133z" opacity="0.4" id="room10qb" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M404,155h-7v-22h7V155z" opacity="0.4" id="room10qc" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M404,216h-7v-37h7V216z" opacity="0.4" id="room10qd" onclick="elemColor(evt, 'room10qa', 'url(#fon3)'); elemColor(evt, 'room10qb', 'url(#fon3)'); elemColor(evt, 'room10qc', 'url(#fon3)'); elemColor(evt, 'room10qd', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10qa', 'url(#fon1)'); elemColor(evt, 'room10qb', 'url(#fon1)'); elemColor(evt, 'room10qc', 'url(#fon1)'); elemColor(evt, 'room10qd', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10qa', 'url(#fon2)'); elemColor(evt, 'room10qb', 'url(#fon2)'); elemColor(evt, 'room10qc', 'url(#fon2)'); elemColor(evt, 'room10qd', 'url(#fon2)')" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M202,145h-37V81h37V145z" opacity="0.4" id="room10ka" onclick="elemColor(evt, 'room10ka', 'url(#fon3)'); elemColor(evt, 'room10kb', 'url(#fon3)'); elemColor(evt, 'room10kc', 'url(#fon3)'); elemColor(evt, 'room10kd', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10ka', 'url(#fon1)'); elemColor(evt, 'room10kb', 'url(#fon1)'); elemColor(evt, 'room10kc', 'url(#fon1)'); elemColor(evt, 'room10kd', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10ka', 'url(#fon2)'); elemColor(evt, 'room10kb', 'url(#fon2)'); elemColor(evt, 'room10kc', 'url(#fon2)'); elemColor(evt, 'room10kd', 'url(#fon2)')" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M193,152h-40v-7h40V152z" opacity="0.4" id="room10kb" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M165,145h-12V93h12V145z" opacity="0.4" id="room10kc" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M165,93h-12l12-12V93z" opacity="0.4" id="room10kd" onclick="elemColor(evt, 'room10ka', 'url(#fon3)'); elemColor(evt, 'room10kb', 'url(#fon3)'); elemColor(evt, 'room10kc', 'url(#fon3)'); elemColor(evt, 'room10kd', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10ka', 'url(#fon1)'); elemColor(evt, 'room10kb', 'url(#fon1)'); elemColor(evt, 'room10kc', 'url(#fon1)'); elemColor(evt, 'room10kd', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10ka', 'url(#fon2)'); elemColor(evt, 'room10kb', 'url(#fon2)'); elemColor(evt, 'room10kc', 'url(#fon2)'); elemColor(evt, 'room10kd', 'url(#fon2)')" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M46,79H4V47h42V79z" opacity="0.4" id="room10c" onclick="elemColor(evt, 'room10c', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10c', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10c', 'url(#fon2)')" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M197,44h-24V4h24V44z" opacity="0.4" id="room10f" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M228,44h-29V14h29V44z" opacity="0.4" id="room10g" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M263,44h-29V12.5h29V44z" opacity="0.4" id="room10h" fill="url(#fon1)"/>
+				</g>
+				<g>
+					<path d="M396,216h-44v-37h44V216z" opacity="0.4" id="room10s" fill="url(#fon1)"/>
+				</g>
+			</g>
+			<g>
+				<!-- Skeleton -->
+				<path fill="#A1DCE7" d="M4,194H0V95.4199219h4V194z"/>
+				<path fill="#A1DCE7" d="M4,31.0800781H0V10.5h4V31.0800781z"/>
+				<path fill="#1C3795" d="M238,4H0V0h238V4z"/>
+				<path fill="#A0D6D9" d="M557,203.8334961h-4v-52.1665039h4V203.8334961z"/>
+				<path fill="#A1D8DE" d="M192,221H12.5v-4H192V221z"/>
+				<path fill="#A0D6D9" d="M539,220H389v-4h150V220z"/>
+				<path fill="#A1DCE7" d="M4,42H0V21.4199219h4V42z"/>
+				<path fill="#A0D6D9" d="M557,128.1665039h-4V8h4V128.1665039z"/>
+				<path fill="#1C3795" d="M4,14H0V2.0874023h4V14z"/>
+				<path fill="#1C3795" d="M4,29H0v-8h4V29z"/>
+				<path fill="#1C3795" d="M4,60H0V36h4V60z"/>
+				<path fill="#1C3795" d="M72,48H0v-2h72V48z"/>
+				<path fill="#1C3795" d="M114,82.6669922h-4V1h4V82.6669922z"/>
+				<path fill="#1C3795" d="M4,96.5H0v-21h4V96.5z"/>
+				<path fill="#1C3795" d="M4,168H0v-49h4V168z"/>
+				<path fill="#1C3795" d="M4,220.5H0V190h4V220.5z"/>
+				<path fill="#1C3795" d="M20,221H0v-4h20V221z"/>
+				<path fill="#1C3795" d="M71.5,221h-30v-4h30V221z"/>
+				<path fill="#1C3795" d="M121.5,221h-29v-4h29V221z"/>
+				<path fill="#1C3795" d="M172.5,221h-29v-4h29V221z"/>
+				<path fill="#1C3795" d="M204,221h-12v-11h12V221z"/>
+				<path fill="#1C3795" d="M61.6665039,145H0v-2h61.6665039V145z"/>
+				<path fill="#1C3795" d="M84,150h-2V83h2V150z"/>
+				<path fill="#1C3795" d="M151,63h-15v-2h15V63z"/>
+				<path fill="#1C3795" d="M173,46h-2V2.9169922h2V46z"/>
+				<path fill="#1C3795" d="M264.5,13h-27V9h27V13z"/>
+				<path fill="#1C3795" d="M201,14h-4V0h4V14z"/>
+				<path fill="#1C3795" d="M238,14h-4V0h4V14z"/>
+				<path fill="#1C3795" d="M237,14h-36v-4h36V14z"/>
+				<path fill="#1C3795" d="M199,46h-2V0h2V46z"/>
+				<path fill="#1C3795" d="M230,44.5h-2v-31h2V44.5z"/>
+				<path fill="#1C3795" d="M234,44.5h-2v-31h2V44.5z"/>
+				<path fill="#1C3795" d="M200.9169922,46H192v-2h8.9169922V46z"/>
+				<path fill="#1C3795" d="M242,46h-23v-2h23V46z"/>
+				<path fill="#1C3795" d="M265,46h-5v-2h5V46z"/>
+				<path fill="#1C3795" d="M265,45.5h-2v-33h2V45.5z"/>
+				<path fill="#1C3795" d="M226,179h-26v-4h26V179z"/>
+				<path fill="#1C3795" d="M204,220.5h-4V175h4V220.5z"/>
+				<path fill="#1C3795" d="M255,178h-10v-4h10V178z"/>
+				<path fill="#1C3795" d="M255,220h-4v-46h4V220z"/>
+				<path fill="#1C3795" d="M259,220h-8v-46h8V220z"/>
+				<path fill="#1C3795" d="M226,83h-26v-4h26V83z"/>
+				<path fill="#1C3795" d="M204,126h-4V80.5h4V126z"/>
+				<path fill="#1C3795" d="M255,83h-10v-4h10V83z"/>
+				<path fill="#1C3795" d="M255,125h-4V79h4V125z"/>
+				<path fill="#1C3795" d="M226,126h-26v-4h26V126z"/>
+				<path fill="#1C3795" d="M255,126h-10v-4h10V126z"/>
+				<path fill="#1C3795" d="M557,4H261.3330078V0H557V4z"/>
+				<path fill="#1C3795" d="M258.6665039,220H202v-4h56.6665039V220z"/>
+				<path fill="#1C3795" d="M353,220h-2v-46h2V220z"/>
+				<path fill="#1C3795" d="M360,131h-4V85h4V131z"/>
+				<path fill="#1C3795" d="M460.5,89H357.75v-4H460.5V89z"/>
+				<path fill="#1C3795" d="M461,127h-68v-4h68V127z"/>
+				<path fill="#1C3795" d="M452,86h-2V2h2V86z"/>
+				<path fill="#1C3795" d="M467,133h-10v-11h10V133z"/>
+				<path fill="#1C3795" d="M467,220h-41.3339844v-4H467V220z"/>
+				<path fill="#1C3795" d="M557,220h-21v-4h21V220z"/>
+				<path fill="#1C3795" d="M557,15h-4V0h4V15z"/>
+				<path fill="#1C3795" d="M557,67.6665039h-4V37h4V67.6665039z"/>
+				<path fill="#1C3795" d="M557,95h-4V80.6669922h4V95z"/>
+				<path fill="#1C3795" d="M557,152.1669922h-4V147.5h4V152.1669922z"/>
+				<path fill="#1C3795" d="M557,220h-4v-19h4V220z"/>
+				<path fill="#1C3795" d="M470,133h-6.5v-4h6.5V133z"/>
+				<path fill="#1C3795" d="M504.25,64h-2V23h2V64z"/>
+				<path fill="#1C3795" d="M533.5,64h-60.8330078v-2H533.5V64z"/>
+				<path fill="#1C3795" d="M556.03125,133h-74.5615v-4h74.5615V132z"/>
+				<path fill="#1C3795" d="M504.5,64h-3V38h3V64z"/>
+				<path display="none" fill="#1C3795" d="M122,92h-14v-6h14V92z"/>
+				<path display="none" fill="#1C3795" d="M203,221H1V0h202V221z"/>
+				<path display="none" fill="#1C3795" d="M238,221h-36V0h36V221z"/>
+				<path display="none" fill="#1C3795" d="M346,219.9995117H236v-213h110V219.9995117z"/>
+				<path display="none" fill="#1C3795" d="M557,219.9995117H345V0h212V219.9995117z"/>
+				<path fill="#1C3795" d="M62,221h-2v-57h2V221z"/>
+				<path fill="#1C3795" d="M145,45.9165039h-2v-43h2V45.9165039z"/>
+				<path fill="#1C3795" d="M174.875,46H168v-2h6.875V46z"/>
+				<path fill="#1C3795" d="M150.9995117,46H143v-2h7.9995117V46z"/>
+				<path fill="#1C3795" d="M91,83H0v-4h91V83z"/>
+				<path fill="#1C3795" d="M118.953125,63h-6.40625v-2h6.40625V63z"/>
+				<path fill="#1C3795" d="M113.8334961,83h-7v-4h7V83z"/>
+				<path fill="#1C3795" d="M204,176.5h-2V124h2V176.5z"/>
+				<path fill="#1C3795" d="M200,81h-35v-2h35V81z"/>
+				<path fill="#1C3795" d="M200.6665039,177H181v-2h19.6665039V177z"/>
+				<path fill="#1C3795" d="M174,154h-23v-2h23V154z"/>
+				<path fill="#1C3795" d="M258.7495117,131h-4.5v-6h4.5V131z"/>
+				<path fill="#1C3795" d="M356.5,131h-5v-6h5V131z"/>
+				<path fill="#1C3795" d="M291.0087891,128.8730469l-32.5004883,0.125L258.5,127.159668l32.5-0.1254883L291.0087891,128.8730469z"/>
+				<path fill="#1C3795" d="M300,220h-3v-46h3V220z"/>
+				<path fill="#1C3795" d="M352,183h-52v-2h52V183z"/>
+				<path fill="#1C3795" d="M400.6669922,220H299.3339844v-4h101.3330078V220z"/>
+				<path fill="#1C3795" d="M263,179h-4v-2h4V179z"/>
+				<path fill="#1C3795" d="M298,179h-4v-2h4V179z"/>
+				<path fill="#1C3795" d="M263,218h-4v-2h4V218z"/>
+				<path fill="#1C3795" d="M298,218h-4v-2h4V218z"/>
+				<path fill="#1C3795" d="M265,13h-4V1h4V13z"/>
+				<path fill="#1C3795" d="M557,132.6669922h-4v-22.5195313h4V132.6669922z"/>
+				<path fill="#1C3795" d="M557,133h-10v-11h10V133z"/>
+				<path fill="#1C3795" d="M397,218h-2v-40.6665039h2V218z"/>
+				<path fill="#1C3795" d="M356,179h-4v-2h4V179z"/>
+				<path fill="#1C3795" d="M396,179h-22v-2h22V179z"/>
+				<path fill="#1C3795" d="M397,156.6665039h-4v-32.3334961h4V156.6665039z"/>
+				<path fill="#1C3795" d="M396.5,157h-45v-4h45V157z"/>
+				<path fill="#1C3795" d="M355,156.5h-4v-11h4V156.5z"/>
+				<path fill="#1C3795" d="M403,179h-6v-2h6V179z"/>
+				<path fill="#1C3795" d="M4113,220h-2v-42h2V220z"/>
+				<path fill="#1C3795" d="M48,81h-2V66h2V81z"/>
+				<path fill="#1C3795" d="M151,44.5v18h-2v-18H151z"/>
+				<path fill="#1C3795" d="M62,150h-2v-7h2V150z"/>
+				<path fill="#1C3795" d="M84,145h-6v-2h6V145z"/>
+				<path fill="#1C3795" d="M146,177H81v-2h65V177z"/>
+				<path fill="#1C3795" d="M165,221h-2v-46h2V221z"/>
+				<path fill="#1C3795" d="M166,177h-4v-2h4V177z"/>
+				<path fill="#1C3795" d="M102,221h-2v-46h2V221z"/>
+				<path fill="#1C3795" d="M99,132H82v-2h17V132z"/>
+				<path fill="#1C3795" d="M99,137h-2v-7h2V137z"/>
+				<path fill="#1C3795" d="M103,137h-6v-2h6V137z"/>
+				<path fill="#1C3795" d="M103,150h-2v-15h2V150z"/>
+				<path fill="#1C3795" d="M103,150h-6v-2h6V150z"/>
+				<path fill="#1C3795" d="M99,150h-2v-9h2V150z"/>
+				<path fill="#1C3795" d="M99,141H82v-2h17V141z"/>
+				<path fill="#1C3795" d="M66,177h-6v-2h6V177z"/>
+				<path fill="#1C3795" d="M153,154h-2V93h2V154z"/>
+				<path fill="#1C3795" d="M203,147h-10v-2h10V147z"/>
+				<path fill="#1C3795" d="M195,158h-2v-13h2V158z"/>
+				<path fill="#1C3795" d="M195,176h-2v-4h2V176z"/>
+				<path fill="#1C3795" d="M195,154h-4v-2h4V154z"/>
+				<path fill="#1C3795" d="M256.9306641,125H254V85h2.9306641V125z"/>
+				<path fill="#1C3795" d="M293,128.9980469h-2V104h2V128.9980469z"/>
+				<path fill="#1C3795" d="M293,87h-37v-2h37V87z"/>
+				<path fill="#1C3795" d="M357,87h-46v-2h46V87z"/>
+				<path fill="#1C3795" d="M548.03125,133h-57.5625v-4h57.5625V133z"/>
+				<path fill="#1C3795" d="M403,157h-6v-2h6V157z"/>
+				<path fill="#1C3795" d="M455,64h-5v-2h5V64z"/>
+				<path fill="#1C3795" d="M461,122.90625h-4V85h4V122.90625z"/>
+				<path fill="#1C3795" d="M371,34h-4V0h4V34z"/>
+				<path fill="#1C3795" d="M359,46h-58v-4h58V46z"/>
+				<path fill="#1C3795" d="M359.328125,45.3701172L356.5,42.5415039L368.0415039,31l2.828125,2.8286133L359.328125,45.3701172z"/>
+				<!-- End of Skeleton -->
+			</g>
+			<!-- Stairs1 -->
+			<g transform="translate(35,10)" id="Stairs1">
+				<path fill="#E6F5FA" stroke="#1C3795" d="M4.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M8.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M12.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M16.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M20.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M24.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M28.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M32.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M36.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M40.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M4.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M8.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M12.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M16.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M20.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M24.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M28.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M32.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M36.5,29.5h-4v-13h4V29.5z"/>
+			</g>
+			<!-- End of Stairs1 -->
+			<!-- Stairs2 -->
+			<g transform="translate(395,90)" id="Stairs2">
+				<path fill="#E6F5FA" stroke="#1C3795" d="M4.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M8.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M12.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M16.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M20.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M24.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M28.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M32.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M36.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M40.5,13.5h-4v-13h4V13.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M8.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M12.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M16.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M20.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M24.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M28.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M32.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M36.5,29.5h-4v-13h4V29.5z"/>
+				<path fill="#E6F5FA" stroke="#1C3795" d="M40.5,29.5h-4v-13h4V29.5z"/>
+			</g>
+			<!-- End of Stairs1 -->
+			<!-- Doors -->
+			<use xlink:href="#Door1" transform="translate(-9,74) rotate(-90) scale(0.7)"/>
+			<use xlink:href="#Door1" transform="translate(32,67) rotate(-90)"/>
+			<use xlink:href="#Door1" transform="translate(91,67) rotate(0) scale(1)"/>
+			<use xlink:href="#Door1" transform="translate(151,30) rotate(0) scale(1)"/>
+			<use xlink:href="#Door2" transform="translate(140.4,85) rotate(-45) scale(1)"/>
+			<use xlink:href="#Door2" transform="translate(61,129) rotate(0) scale(1)"/>
+			<use xlink:href="#Door2" transform="translate(84,191) rotate(180) scale(1)"/>
+			<use xlink:href="#Door1" transform="translate(51,163) rotate(-90) scale(0.7)"/>
+			<use xlink:href="#Door1" transform="translate(97,160) rotate(180) scale(0.7)"/>
+			<use xlink:href="#Door2" transform="translate(185,191) rotate(180) scale(1)"/>
+			<use xlink:href="#Door1" transform="translate(161,191) rotate(180) scale(1)"/>
+			<use xlink:href="#Door1" transform="translate(218,60) rotate(180)"/>
+			<use xlink:href="#Door2" transform="translate(265,60) rotate(180)"/>
+			<use xlink:href="#Door2" transform="translate(311,101) rotate(180)"/>
+			<use xlink:href="#Door1" transform="translate(278,192) rotate(180) scale(0.9)"/>
+			<use xlink:href="#Door2" transform="translate(298,192) rotate(180) scale(0.9)"/>
+			<use xlink:href="#Door1" transform="translate(278,231) rotate(180) scale(0.9)"/>
+			<use xlink:href="#Door2" transform="translate(298,231) rotate(180) scale(0.9)"/>
+			<use xlink:href="#Door2" transform="translate(180,177) rotate(-90) scale(1)"/>
+			<use xlink:href="#Door2" transform="translate(196,168) rotate(180) scale(1)"/>
+			<use xlink:href="#Door1" transform="translate(135,77) rotate(180)"/>
+			<use xlink:href="#Door2" transform="translate(172,30) rotate(0)"/>
+			<use xlink:href="#Door1" transform="translate(533,48) rotate(0)"/>
+			<use xlink:href="#Door1" transform="translate(455,48) rotate(0)"/>
+			<use xlink:href="#Door2" transform="translate(465,115) rotate(0)"/>
+			<use xlink:href="#Door1" transform="translate(541,152) rotate(-90)"/>
+			<use xlink:href="#Door2" transform="translate(376,193) rotate(180) scale(1)"/>
+			<use xlink:href="#Door2" transform="translate(417,155) rotate(90) scale(1)"/>
+			<use xlink:href="#Door2" transform="translate(337,150) rotate(-90) scale(1)"/>
+			<use xlink:href="#Door2" transform="translate(488,25) rotate(-90) scale(1)"/>
+			<!-- End of Doors -->
+			<!-- Tables -->
+			<use xlink:href="#Table" transform="translate(502,48) scale(1) rotate(90)"/>
+			<use xlink:href="#Table" transform="translate(526,48) scale(1) rotate(90)"/>
+			<use xlink:href="#Table" transform="translate(300,24) scale(0.8) rotate(90)"/>
+			<use xlink:href="#Table" transform="translate(335,97) scale(0.8) rotate(90)"/>
+			<use xlink:href="#Table" transform="translate(287,113) scale(0.8) rotate(90)"/>
+			<!-- End of Tables -->
+			<!-- Desks -->
+			<!-- End of Desks -->
+			<!-- Wash-stands -->
+			<use xlink:href="#Wash-stand" transform="translate(228,28) rotate(90)"/>
+			<use xlink:href="#Wash-stand" transform="translate(234,37) rotate(-90)"/>
+			<use xlink:href="#Wash-stand" transform="translate(510,55) rotate(0)"/>
+			<use xlink:href="#Wash-stand" transform="translate(487,55) rotate(0)"/>
+			<use xlink:href="#Wash-stand" transform="translate(394,190) rotate(90)"/>
+			<!-- End of Wash-stands -->
+			<!-- Chairs -->
+			<use xlink:href="#Chair" transform="translate(286,14) rotate(180)"/>
+			<use xlink:href="#Chair" transform="translate(298,14) rotate(180)"/>
+			<use xlink:href="#Chair" transform="translate(310,14) rotate(180)"/>
+			<use xlink:href="#Chair" transform="translate(322,14) rotate(180)"/>
+			<use xlink:href="#Chair" transform="translate(386,14) rotate(180)"/>
+			<use xlink:href="#Chair" transform="translate(398,14) rotate(180)"/>
+			<use xlink:href="#Chair" transform="translate(410,14) rotate(180)"/>
+			<use xlink:href="#Chair" transform="translate(422,14) rotate(180)"/>
+			<use xlink:href="#Chair" transform="translate(434,14) rotate(180)"/>
+			<use xlink:href="#Chair" transform="translate(446,14) rotate(180)"/>
+			<use xlink:href="#Chair" transform="translate(275,18) rotate(90)"/>
+			<use xlink:href="#Chair" transform="translate(275,30) rotate(90)"/>
+			<use xlink:href="#Chair" transform="translate(265,90) rotate(90)"/>
+			<use xlink:href="#Chair" transform="translate(265,102) rotate(90)"/>
+			<use xlink:href="#Chair" transform="translate(317,117) rotate(0)"/>
+			<use xlink:href="#Chair" transform="translate(329,117) rotate(0)"/>
+			<use xlink:href="#Chair" transform="translate(345,99) rotate(-90)"/>
+			<use xlink:href="#Chair" transform="translate(345,111) rotate(-90)"/>
+			<!-- End of Chairs -->
+			<!-- Big Chairs -->
+			<!-- End of Big Chairs -->
+			<!-- Chairs Room -->
+			<!-- End of Chairs Room -->
+			<!-- Bloks -->
+			<use xlink:href="#Blok" transform="translate(555,11) rotate(180)"/>
+			<use xlink:href="#Blok" transform="translate(468,11) rotate(180)"/>
+			<use xlink:href="#Blok" transform="translate(460,11) rotate(180)"/>
+			<use xlink:href="#Blok" transform="translate(546,132) rotate(-90)"/>
+			<use xlink:href="#Blok" transform="translate(545,209) rotate(0)"/>
+			<use xlink:href="#Blok" transform="translate(451,209) rotate(0)"/>
+			<use xlink:href="#Blok" transform="translate(352,209) rotate(0)"/>
+			<use xlink:href="#Blok" transform="translate(93,210) rotate(0)"/>
+			<use xlink:href="#Blok" transform="translate(11,134) rotate(90)"/>
+			<use xlink:href="#Blok" transform="translate(11,125) rotate(90)"/>
+			<use xlink:href="#Blok" transform="translate(11,47) rotate(90)"/>
+			<use xlink:href="#Blok" transform="translate(13,11) rotate(180)"/>
+			<use xlink:href="#Blok" transform="translate(112,11) rotate(180)"/>
+			<!-- End of Bloks -->
+			<!-- Corriages -->
+			<use xlink:href="#Corriage" transform="translate(244,31)"/>
+			<!-- End of Corriages -->
+			<!-- Lift1 -->
+			<g id="Lift1" transform="translate(203,82)">
+				<path fill="#FCE5CF" stroke="#1C3795" d="M47.5,39.5h-47v-39h47V39.5z"/>
+				<path fill="#E0F7FC" stroke="#1C3795" d="M43.3330078,35.1669922h-39v-29h39V35.1669922z"/>
+				<path fill="#FCE5CF" stroke="#1C3795" d="M21.5,11.1669922h-17v-5h17V11.1669922z"/>
+				<path fill="#FCE5CF" stroke="#1C3795" d="M21.3330078,35.1669922h-17v-5h17V35.1669922z"/>
+			</g>
+			<!-- End of Lift1 -->
+			<!-- Lift2 -->
+			<g id="Lift2" transform="translate(203,178)">
+				<path fill="#FCE5CF" stroke="#1C3795" d="M47.5,39.5h-47v-39h47V39.5z"/>
+				<path fill="#E0F7FC" stroke="#1C3795" d="M43.3330078,35.1669922h-39v-29h39V35.1669922z"/>
+				<path fill="#FCE5CF" stroke="#1C3795" d="M21.5,11.1669922h-17v-5h17V11.1669922z"/>
+			</g>
+			<!-- End of Lift2 -->
+			<!-- Detals -->
+			<use xlink:href="#Detal" transform="translate(233,25) rotate(-90)"/>
+			<use xlink:href="#Detal" transform="translate(395,201) rotate(90)"/>
+			<!-- End of Detals -->
+			<!-- Text number Room -->
+			<g transform="translate(25,184)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10a</tspan>
+				</text>
+			</g>
+			<g transform="translate(45,116)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10b</tspan>
+				</text>
+			</g>
+			<g transform="translate(18,67)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10c</tspan>
+				</text>
+			</g>
+			<g transform="translate(121,34)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10d</tspan>
+				</text>
+			</g>
+			<g transform="translate(151,29)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10e</tspan>
+				</text>
+			</g>
+			<g transform="translate(178,29)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10f</tspan>
+				</text>
+			</g>
+			<g transform="translate(206,29)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10g</tspan>
+				</text>
+			</g>
+			<g transform="translate(242,29)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="9">10h</tspan>
+				</text>
+			</g>
+			<g transform="translate(171,122)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10k</tspan>
+				</text>
+			</g>
+			<g transform="translate(176,202)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10l</tspan>
+				</text>
+			</g>
+			<g transform="translate(123,202)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10m</tspan>
+				</text>
+			</g>
+			<g transform="translate(75,202)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10n</tspan>
+				</text>
+			</g>
+			<g transform="translate(470,36)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10o</tspan>
+				</text>
+			</g>
+			<g transform="translate(520,36)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10p</tspan>
+				</text>
+			</g>
+			<g transform="translate(470,178)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10q</tspan>
+				</text>
+			</g>
+			<g transform="translate(367,201)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="10">10s</tspan>
+				</text>
+			</g>
+			<!-- End of Text number Room -->
+			<!-- Name Room -->
+			<g transform="translate(19,36)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="9">UP</tspan>
+				</text>
+			</g>
+			<g transform="translate(19,20)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="9">DN</tspan>
+				</text>
+			</g>
+			<g transform="translate(379,117)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="9">UP</tspan>
+				</text>
+			</g>
+			<g transform="translate(379,101)">
+				<text>
+					<tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="9">DN</tspan>
+				</text>
+			</g>
+			<g transform="translate(0,0)">
+				<g>
+					<path d="M502,62h-51V3h51V62z" opacity="0" onclick="elemColor(evt, 'room10o', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10o', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10o', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M171,44h-27V4h27V44z" opacity="0" onclick="elemColor(evt, 'room10e', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10e', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10e', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M83,143H4V83h79V143z" opacity="0" onclick="elemColor(evt, 'room10b', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10b', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10b', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M60,217H4v-72h56V217z" opacity="0" onclick="elemColor(evt, 'room10a', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10a', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10a', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M555,62h-51V3h51V62z" opacity="0" onclick="elemColor(evt, 'room10p', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10p', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10p', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M100,217H62v-40h38V217z" opacity="0" onclick="elemColor(evt, 'room10n', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10n', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10n', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M164,217h-62v-40h62V217z" opacity="0" onclick="elemColor(evt, 'room10m', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10m', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10m', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M201,217h-36v-40h36V217z" opacity="0" onclick="elemColor(evt, 'room10l', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10l', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10l', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M202,175h-7v-28h7V175z" opacity="0" onclick="elemColor(evt, 'room10l1', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10l1', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10l1', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M144,61h-30V4h30V61z" opacity="0" onclick="elemColor(evt, 'room10da', 'url(#fon3)'); elemColor(evt, 'room10db', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10da', 'url(#fon1)'); elemColor(evt, 'room10db', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10da', 'url(#fon2)'); elemColor(evt, 'room10db', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M149,61h-5V46.0834961h5V61z" opacity="0" onclick="elemColor(evt, 'room10da', 'url(#fon3)'); elemColor(evt, 'room10db', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10da', 'url(#fon1)'); elemColor(evt, 'room10db', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10da', 'url(#fon2)'); elemColor(evt, 'room10db', 'url(#fon2)')"/>
+				</g>
+				<a xlink:href="../room10q.html">
+				<g>
+					<path d="M553,216H404v-83h149V216z" opacity="0" onclick="elemColor(evt, 'room10qa', 'url(#fon3)'); elemColor(evt, 'room10qb', 'url(#fon3)'); elemColor(evt, 'room10qc', 'url(#fon3)'); elemColor(evt, 'room10qd', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10qa', 'url(#fon1)'); elemColor(evt, 'room10qb', 'url(#fon1)'); elemColor(evt, 'room10qc', 'url(#fon1)'); elemColor(evt, 'room10qd', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10qa', 'url(#fon2)'); elemColor(evt, 'room10qb', 'url(#fon2)'); elemColor(evt, 'room10qc', 'url(#fon2)'); elemColor(evt, 'room10qd', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M457,133h-60v-7h60V133z" opacity="0" onclick="elemColor(evt, 'room10qa', 'url(#fon3)'); elemColor(evt, 'room10qb', 'url(#fon3)'); elemColor(evt, 'room10qc', 'url(#fon3)'); elemColor(evt, 'room10qd', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10qa', 'url(#fon1)'); elemColor(evt, 'room10qb', 'url(#fon1)'); elemColor(evt, 'room10qc', 'url(#fon1)'); elemColor(evt, 'room10qd', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10qa', 'url(#fon2)'); elemColor(evt, 'room10qb', 'url(#fon2)'); elemColor(evt, 'room10qc', 'url(#fon2)'); elemColor(evt, 'room10qd', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M404,155h-7v-22h7V155z" opacity="0" onclick="elemColor(evt, 'room10qa', 'url(#fon3)'); elemColor(evt, 'room10qb', 'url(#fon3)'); elemColor(evt, 'room10qc', 'url(#fon3)'); elemColor(evt, 'room10qd', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10qa', 'url(#fon1)'); elemColor(evt, 'room10qb', 'url(#fon1)'); elemColor(evt, 'room10qc', 'url(#fon1)'); elemColor(evt, 'room10qd', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10qa', 'url(#fon2)'); elemColor(evt, 'room10qb', 'url(#fon2)'); elemColor(evt, 'room10qc', 'url(#fon2)'); elemColor(evt, 'room10qd', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M404,216h-7v-37h7V216z" opacity="0" onclick="elemColor(evt, 'room10qa', 'url(#fon3)'); elemColor(evt, 'room10qb', 'url(#fon3)'); elemColor(evt, 'room10qc', 'url(#fon3)'); elemColor(evt, 'room10qd', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10qa', 'url(#fon1)'); elemColor(evt, 'room10qb', 'url(#fon1)'); elemColor(evt, 'room10qc', 'url(#fon1)'); elemColor(evt, 'room10qd', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10qa', 'url(#fon2)'); elemColor(evt, 'room10qb', 'url(#fon2)'); elemColor(evt, 'room10qc', 'url(#fon2)'); elemColor(evt, 'room10qd', 'url(#fon2)')"/>
+				</g>
+				</a>
+				<g>
+					<path d="M202,145h-37V81h37V145z" opacity="0" onclick="elemColor(evt, 'room10ka', 'url(#fon3)'); elemColor(evt, 'room10kb', 'url(#fon3)'); elemColor(evt, 'room10kc', 'url(#fon3)'); elemColor(evt, 'room10kd', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10ka', 'url(#fon1)'); elemColor(evt, 'room10kb', 'url(#fon1)'); elemColor(evt, 'room10kc', 'url(#fon1)'); elemColor(evt, 'room10kd', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10ka', 'url(#fon2)'); elemColor(evt, 'room10kb', 'url(#fon2)'); elemColor(evt, 'room10kc', 'url(#fon2)'); elemColor(evt, 'room10kd', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M193,152h-40v-7h40V152z" opacity="0" onclick="elemColor(evt, 'room10ka', 'url(#fon3)'); elemColor(evt, 'room10kb', 'url(#fon3)'); elemColor(evt, 'room10kc', 'url(#fon3)'); elemColor(evt, 'room10kd', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10ka', 'url(#fon1)'); elemColor(evt, 'room10kb', 'url(#fon1)'); elemColor(evt, 'room10kc', 'url(#fon1)'); elemColor(evt, 'room10kd', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10ka', 'url(#fon2)'); elemColor(evt, 'room10kb', 'url(#fon2)'); elemColor(evt, 'room10kc', 'url(#fon2)'); elemColor(evt, 'room10kd', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M165,145h-12V93h12V145z" opacity="0" onclick="elemColor(evt, 'room10ka', 'url(#fon3)'); elemColor(evt, 'room10kb', 'url(#fon3)'); elemColor(evt, 'room10kc', 'url(#fon3)'); elemColor(evt, 'room10kd', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10ka', 'url(#fon1)'); elemColor(evt, 'room10kb', 'url(#fon1)'); elemColor(evt, 'room10kc', 'url(#fon1)'); elemColor(evt, 'room10kd', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10ka', 'url(#fon2)'); elemColor(evt, 'room10kb', 'url(#fon2)'); elemColor(evt, 'room10kc', 'url(#fon2)'); elemColor(evt, 'room10kd', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M165,93h-12l12-12V93z" opacity="0" onclick="elemColor(evt, 'room10ka', 'url(#fon3)'); elemColor(evt, 'room10kb', 'url(#fon3)'); elemColor(evt, 'room10kc', 'url(#fon3)'); elemColor(evt, 'room10kd', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10ka', 'url(#fon1)'); elemColor(evt, 'room10kb', 'url(#fon1)'); elemColor(evt, 'room10kc', 'url(#fon1)'); elemColor(evt, 'room10kd', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10ka', 'url(#fon2)'); elemColor(evt, 'room10kb', 'url(#fon2)'); elemColor(evt, 'room10kc', 'url(#fon2)'); elemColor(evt, 'room10kd', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M46,79H4V47h42V79z" opacity="0" onclick="elemColor(evt, 'room10c', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10c', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10c', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M197,44h-24V4h24V44z" opacity="0" onclick="elemColor(evt, 'room10f', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10f', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10f', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M228,44h-29V14h29V44z" opacity="0" onclick="elemColor(evt, 'room10g', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10g', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10g', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M263,44h-29V12.5h29V44z" opacity="0" onclick="elemColor(evt, 'room10h', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10h', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10h', 'url(#fon2)')"/>
+				</g>
+				<g>
+					<path d="M396,216h-44v-37h44V216z" opacity="0" onclick="elemColor(evt, 'room10s', 'url(#fon3)')" onmouseout="elemColor(evt, 'room10s', 'url(#fon1)')" onmouseover="elemColor(evt, 'room10s', 'url(#fon2)')"/>
+				</g>
+			</g>
+			<!-- End of Name Room -->
+		</g>
+	</g>
+</svg>

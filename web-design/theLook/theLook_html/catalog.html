@@ -1,0 +1,267 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>the LOOK</title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="css/craftyslide.css" />  
+	<link href="css/dropdown/dropdown.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="css/dropdown/themes/theLOOK/default.advanced.css" media="screen" rel="stylesheet" type="text/css" />    
+	<link href="css/scrollPage.css" media="screen" rel="stylesheet" type="text/css" />        
+    <script src="js/jquery.min.js"></script>
+    <script src="js/craftyslide.min.js"></script>
+	<script src="js/jquery.color.js"></script> 
+	<script src="js/scripts.js"></script>  
+</head>
+<body>
+	<div id="base">
+    	<!-- header -->
+		<div id="header">
+        	<div>
+                <div id="header_phone">(044) 321 45 45<br/>(044) 322 32 23</div>
+                <div id="header_logo"><a href="index.html"><img src="img/theLOOK.png" alt="" width="226" height="90" /></a></div>
+                <div id="header_search">
+                	<div id="header_search_links"><a class="url" href="login.html" onmouseover="anichangeLogin('#loginArea'); return false">ВХОД</a> <span id="header_search_links_2"><a class="url" href="login.html">РЕГИСТРАЦИЯ</a></span></div>	
+                    <div id="top_search">
+                    	<form>
+							<input type="text" name="form_search" id="form_search" value="поиск товара" onclick="this.value=''" onblur="if (this.value.replace(/\s+/g,'') == '') {this.value='поиск товара'}" />
+							<input type="submit" value="" name="submit" id="submit" />                    
+                        </form>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div id="loginArea"> 
+                <form>
+                    <div>
+                        <div class="loginArea1">
+                            <div><input type="text" name="form_login" id="form_login" value="Login" onclick="this.value=''" onblur="if (this.value.replace(/\s+/g,'') == '') {this.value='Login'}" /></div>                        
+                            <div class="loginArea1Pass"><input type="password" name="form_pass" id="form_pass" value="password" onclick="this.value=''" onblur="if (this.value.replace(/\s+/g,'') == '') {this.value='password'}" /></div>
+                        </div>
+                        <div class="loginArea2"><input type="submit" value="Вход" name="submit" class="button buttonEnter" /></div>
+                        <div class="clear"></div>
+                    </div>                  
+                    <div class="loginArea1links"><a href="remember.html">Забыли пароль</a><span><label><input type="checkbox" checked="checked" />&nbsp;Запомнить меня</label></span></div>
+                </form>            
+            </div>
+            <!-- menu -->
+			<div id="header_menu">
+            	<div id="header_menu_first">
+                    <ul class="dropdown dropdown-horizontal">
+                        <li><a href="#" class="dir">WOMAN</a>
+                            <ul>
+                                <li><a href="#">Верхняя одежда</a></li>
+                                <li><a href="#">Сумки</a></li>
+                                <li><a href="#">Обувь</a></li>
+                                <li><a href="#">Одежда</a></li>                                
+                            </ul>
+                        </li>
+                        <li><a href="#" class="dir">MAN</a>
+                            <ul>
+                                <li><a href="#">Верхняя одежда</a></li>
+                                <li><a href="#">Сумки</a></li>
+                                <li><a href="#">Обувь</a></li>
+                                <li><a href="#">Одежда</a></li>  
+                            </ul>
+                        </li>  
+                        <li><a href="#" class="dir">CHILDREN</a>
+                            <ul>
+                                <li><a href="#">Одежда</a></li>
+                            </ul>
+                        </li>                                                
+                    </ul>                
+				</div>
+            	<div id="header_menu_last">
+                    <ul>
+                        <li><a href="#">ОПЛАТА</a></li>
+                        <li><a href="#">ДОСТАВКА</a></li>
+                        <li><a href="#">КОНТАКТЫ</a></li>
+                    </ul>
+				</div>
+                <div class="clear"></div>
+			</div>
+            <!-- end menu -->
+		</div>
+        <!-- end header -->
+        <!-- main -->
+        <div id="main">
+        	<!-- left block -->
+        	<div id="catalogMenu">
+            	<div id="catalogMenuTitle">Одежда</div>
+                <ul>
+                	<a href="#"><li class="bold">Посмотреть все</li></a>
+                	<a href="#"><li>Брюки</li></a>
+                	<a href="#"><li>Верхняя одежда</li></a>                                        
+                	<a href="#"><li>Джинсы</li></a>
+                	<a href="#"><li>Жакеты\Жилеты</li></a>
+                	<li class="active">Платья</li> 
+                	<a href="#"><li>Пляжная одежда</li></a> 
+                	<a href="#"><li>Рубашки\Блузы</li></a> 
+                	<a href="#"><li>Топы</li></a> 
+                	<a href="#"><li>Трикотаж</li></a> 
+                	<a href="#"><li>Шорты</li></a> 
+                	<a href="#"><li>Юбки</li></a>                                                                                                                                                                                     
+                </ul>
+                <a href="#" onclick="anichange('#catalogBlock1'); return false"><div id="catalogBlockTitle1" class="iconDown">Дизайнеры</div></a>
+                <div id="catalogBlock1" style="display: none">
+                <ul id="catalogBlock1ul">
+                	<div onclick="anichange('#catalogBlock1'); return false" class="iconUp"><img src="img/iconUp.png" width="12" height="10" alt=""/></div>
+                	<a href="#"><li class="bold">Посмотреть все</li></a>
+                	<a href="#"><li>Дизайнер1</li></a>
+                	<a href="#"><li>Дизайнер2</li></a>                                        
+                	<a href="#"><li>Дизайнер3</li></a> 
+                	<a href="#"><li>Дизайнер4</li></a> 
+                	<a href="#"><li>Дизайнер5</li></a> 
+                </ul>
+                </div> 
+                <br/>
+                <a href="#" onclick="anichange('#catalogBlock2'); return false"><div id="catalogBlockTitle2" class="iconDown">Цвета</div></a>
+                <div id="catalogBlock2" style="display: none">
+                <ul id="catalogBlock2ul">
+                	<div onclick="anichange('#catalogBlock1'); return false" class="iconUp"><img src="img/iconUp.png" width="12" height="10" alt=""/></div>                
+                	<a href="#"><li>Черный</li></a>
+                	<a href="#"><li>Белый</li></a>                                        
+                	<a href="#"><li>Красный</li></a> 
+                </ul>
+                </div>                 
+                <br/>
+                <div id="advtheLOOK"><a href="#"><img src="img/imgsm1.jpg" width="189" height="193" alt=""/><br/>
+                	<img src="img/theLOOKslog.png" width="189" height="83" alt=""/></a>
+                    <br/><br/><br/>
+                </div>
+            </div>
+        	<!-- end left block -->
+            <!-- right center block -->
+        	<div id="catalogMain">
+	            <!-- sort panel top -->            
+            	<div class="Sort">
+                	<div class="SortShow">
+	                	<span class="title">Показать:</span> <a href="#">Продукт</a> <span class="active">На модели</span>
+                    </div>
+                    <div class="SortPrice">
+                    	<span class="title">Цена:</span> <span class="active">Высокая</span> <a href="#">Низкая</a> 
+                    </div>
+                    <div class="clear"></div>
+                </div>
+	            <!-- end sort panel top -->  
+                <div id="catalogProducts">
+                	<div>
+	                	<div class="catalogProduct">
+                        	<div class="catalogProductPhoto"><a href="product.html"><img src="img/catalogProduct00001.jpg" width="200" height="300" alt="" /></a></div>
+                            <div class="discount"><a href="product.html"><img src="img/Discount.png" width="71" height="70" alt="" /></a></div>
+                            <div class="catalogProductInfo">
+                            <a href="product.html"><div class="title">Diane von Furstenberg</div></a>
+                            <div>Платье Ceecee Enamel Beading<br/>
+							4 000 грн.</div>
+                            </div>
+                        </div>
+	                	<div class="catalogProduct">
+                        	<div class="catalogProductPhoto"><a href="product.html"><img src="img/catalogProduct00002.jpg" width="200" height="300" alt="" /></a></div>
+                            <!--<div class="discount"><a href="#"><img src="img/Discount.png" width="71" height="70" alt="" /></a></div>-->
+                            <div class="catalogProductInfo">
+                            <a href="product.html"><div class="title">Diane von Furstenberg</div></a>
+                            <div>Платье Ceecee Enamel Beading<br/>
+							4 000 грн.
+							</div>
+                            </div>
+                        </div>
+	                	<div class="catalogProduct">
+                        	<div class="catalogProductPhoto"><a href="product.html"><img src="img/catalogProduct00003.jpg" width="200" height="300" alt="" /></a></div>
+                            <!--<div class="discount"><a href="#"><img src="img/Discount.png" width="71" height="70" alt="" /></a></div>-->
+                            <div class="catalogProductInfo">
+                            <a href="product.html"><div class="title">Diane von Furstenberg text text text</div></a>
+                            <div>Платье Ceecee Enamel Beading<br/>
+							4 000 грн.</div>
+                            </div>
+                        </div>                                              
+	                    <div class="clear"></div>                                            
+                    </div>
+                	<div>
+	                	<div class="catalogProduct">
+                        	<div class="catalogProductPhoto"><a href="product.html"><img src="img/catalogProduct00004.jpg" width="200" height="300" alt="" /></a></div>
+                            <!--<div class="discount"><a href="#"><img src="img/Discount.png" width="71" height="70" alt="" /></a></div>-->
+                            <div class="catalogProductInfo">
+                            <a href="product.html"><div class="title">Diane von Furstenberg</div></a>
+                            <div>Платье Ceecee Enamel Beading<br/>
+							4 000 грн.</div>
+                            </div>
+                        </div>
+	                	<div class="catalogProduct">
+                        	<div class="catalogProductPhoto"><a href="product.html"><img src="img/catalogProduct00005.jpg" width="200" height="300" alt="" /></a></div>
+                            <div class="discount"><a href="product.html"><img src="img/Discount.png" width="71" height="70" alt="" /></a></div>
+                            <div class="catalogProductInfo">
+                            <a href="product.html"><div class="title">Diane von Furstenberg</div></a>
+                            <div>Платье Ceecee Enamel Beading<br/>
+							4 000 грн.
+							</div>
+                            </div>
+                        </div>
+	                	<div class="catalogProduct">
+                        	<div class="catalogProductPhoto"><a href="product.html"><img src="img/catalogProduct00006.jpg" width="200" height="300" alt="" /></a></div>
+                            <!--<div class="discount"><a href="#"><img src="img/Discount.png" width="71" height="70" alt="" /></a></div>-->
+                            <div class="catalogProductInfo">
+                            <a href="product.html"><div class="title">Diane von Furstenberg text text text</div></a>
+                            <div>Платье Ceecee Enamel Beading<br/>
+							4 000 грн.</div>
+                            </div>
+                        </div>                                              
+	                    <div class="clear"></div>                                            
+                    </div>                    
+                </div>
+	            <!-- sort panel bottom -->            
+            	<div class="Sort">
+                	<div class="SortShow">
+	                	<span class="title">Показать:</span> <a href="#">Продукт</a> <span class="active">На модели</span>
+                    </div>
+                    <div class="SortPrice">
+                    	<span class="title">Цена:</span> <span class="active">Высокая</span> <a href="#">Низкая</a> 
+                    </div>
+                    <div class="clear"></div>
+                </div><br/><br/><br/><br/>
+	            <!-- end sort panel bottom -->
+            </div>
+            <!-- end right center block -->            
+            <div class="clear"></div>
+        </div>
+        <!-- end main -->        
+        <!-- footer -->
+       	<div id="footer">
+			<div id="footer_menu">
+            	<div id="footer_menu_first">
+                    <ul>
+                        <li><a class="url" href="#">WOMAN</a></li>
+                        <li id="imgPoint"></li>
+                        <li><a class="url" href="#">MAN </a></li>
+                        <li id="imgPoint"></li>
+                        <li><a class="url" href="#">CHILDREN</a></li>
+                    </ul>            
+				</div>
+            	<div id="footer_menu_last">
+                    <ul>
+                        <li><a class="url" href="#">ОПЛАТА</a></li>
+                        <li id="imgPoint"></li>
+                        <li><a class="url" href="#">ДОСТАВКА</a></li>
+                        <li id="imgPoint"></li>
+                        <li><a class="url" href="#">КОНТАКТЫ</a></li>
+                    </ul>
+				</div>
+                <div class="clear"></div>
+			</div>
+            <table><tr><td align="center">© 2013<span id="theLOOKsm"><img src="img/theLOOKsm.png" width="50" height="17" alt="" /></span></td></tr></table>
+		</div>
+        <!-- end footer -->  
+	</div>
+    <br/>
+    <div id="icons">
+    	<div id="icons1"><a href="#"><img src="img/iconFacebook.png" width="37" height="37" alt=""/></a></div>
+    	<div id="icons2"><a href="#"><img src="img/iconInstra.png" width="37" height="37" alt=""/></a></div>
+    	<div id="icons3"><a href="#"><img src="img/iconVK.png" width="37" height="37" alt=""/></a></div>
+        <a href="cart.html"><div id="icons4"><table><tr><td>3</td></tr></table></div></a>
+    </div>
+    <!-- up button -->
+    <p id="back-top"><a href="#top"><span></span></a></p>
+    <!-- end up button -->    
+</body>
+</html>    

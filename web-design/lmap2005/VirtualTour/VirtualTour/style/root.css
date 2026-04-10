@@ -1,0 +1,174 @@
+td{
+	font-family: Verdana;
+	color: #ffffff;
+    font-size: 80%;	
+}	
+div{
+	font-family: Verdana;
+	color: #ffffff;
+    font-size: 80%;	
+}	
+.text_fixed{
+	font-family: Verdana;
+	color: #ffffff;
+    font-size: 13px;	
+}
+.text{
+	font-family: Verdana;
+	color: #000000;
+    font-size: 80%;	
+}
+.title{
+	font-family: Verdana;
+	color: #F2602E;
+    font-size: 90%;	
+	font-weight: bolder;	
+}
+a{
+	font-family: Verdana;
+	color: #ffffff;
+	text-decoration: underline;	
+    font-size: 100%;	
+}	
+a:active{
+	font-family: Verdana;
+	color: #000000;
+	text-decoration: underline;	
+    font-size: 100%;			
+}
+a:hover{
+	font-family: Verdana;
+	color: #FFC372;
+	text-decoration: underline;	
+    font-size: 100%;	
+}	
+a{
+	font-family: Verdana;
+	color: #ffffff;
+	text-decoration: underline;	
+    font-size: 100%;	
+}	
+a:active{
+	font-family: Verdana;
+	color: #000000;
+	text-decoration: underline;	
+    font-size: 100%;			
+}
+a:hover{
+	font-family: Verdana;
+	color: #FFC372;
+	text-decoration: underline;	
+    font-size: 100%;	
+}	
+.link{
+	font-family: Verdana;
+	color: #0180EC;
+	text-decoration: underline;	
+    font-size: 100%;	
+}	
+.link:active{
+	font-family: Verdana;
+	color: #2602E;
+	text-decoration: underline;	
+    font-size: 100%;			
+}
+.link:hover{
+	font-family: Verdana;
+	color: #01B309;
+	text-decoration: underline;	
+    font-size: 100%;	
+}	
+.photo {
+    width: 300px;
+	height: 225px;
+}
+.but_floor5 a{
+	background-image: url('../image/but_floor5.jpg');
+    width: 61px;
+	height: 19px;
+}
+.but_floor5 a:hover {
+   background-image: url('../image/but_floor5_hover.jpg');
+    width: 61px;
+	height: 19px;
+}
+.but_floor5 a:active {
+   background-image: url('../image/but_floor5_active.jpg');
+    width: 61px;
+	height: 19px;
+}
+.but_floor4 a{
+	background-image: url('../image/but_floor4.jpg');
+    width: 60px;
+	height: 19px;
+}
+.but_floor4 a:hover {
+   background-image: url('../image/but_floor4_hover.jpg');
+    width: 60px;
+	height: 19px;
+}
+.but_floor4 a:active {
+   background-image: url('../image/but_floor4_active.jpg');
+    width: 60px;
+	height: 19px;
+}
+.but_floor3 a{
+	background-image: url('../image/but_floor3.jpg');
+    width: 61px;
+	height: 19px;
+}
+.but_floor3 a:hover {
+   background-image: url('../image/but_floor3_hover.jpg');
+    width: 61px;
+	height: 19px;
+}
+.but_floor3 a:active {
+   background-image: url('../image/but_floor3_active.jpg');
+    width: 61px;
+	height: 19px;
+}
+.but_floor2 a{
+	background-image: url('../image/but_floor2.jpg');
+    width: 60px;
+	height: 19px;
+}
+.but_floor2 a:hover {
+   background-image: url('../image/but_floor2_hover.jpg');
+    width: 60px;
+	height: 19px;
+}
+.but_floor2 a:active {
+   background-image: url('../image/but_floor2_active.jpg');
+    width: 60px;
+	height: 19px;
+}
+.but_floor1 a{
+	background-image: url('../image/but_floor1.jpg');
+    width: 58px;
+	height: 19px;
+}
+.but_floor1 a:hover {
+   background-image: url('../image/but_floor1_hover.jpg');
+    width: 58px;
+	height: 19px;
+}
+.but_floor1 a:active {
+   background-image: url('../image/but_floor1_active.jpg');
+    width: 58px;
+	height: 19px;
+}
+.but_floor0 a{
+	background-image: url('../image/but_floor0.jpg');
+    width: 80px;
+	height: 19px;
+}
+.but_floor0 a:hover {
+   background-image: url('../image/but_floor0_hover.jpg');
+    width: 80px;
+	height: 19px;
+}
+.but_floor0 a:active {
+   background-image: url('../image/but_floor0_active.jpg');
+    width: 80px;
+	height: 19px;
+}

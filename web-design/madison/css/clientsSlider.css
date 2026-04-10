@@ -1,0 +1,65 @@
+    /* image replacement */
+        .graphic, #prevBtn, #nextBtn{
+            margin:0;
+            padding:0;
+            display:block;
+			position:relative;
+            overflow:hidden;
+            text-indent:-8000px;
+            }
+    /* // image replacement */
+	
+
+/* Easy Slider */
+
+	#clientsSlider{}	
+	#clientsSlider ul, #clientsSlider li{
+		margin:0;
+		padding:0;
+		list-style:none;
+	
+		}
+	#clientsSlider li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+		width:750px;
+		overflow:hidden; 
+	
+		}	
+	#prevBtn, #nextBtn{ 
+		display:block;
+		width:29px;
+		height:50px;
+		position:relative;
+		z-index:100;
+		left:-5px;
+		top:-300px;
+		margin-bottom:-600px;
+		}	
+	#nextBtn{ 
+		left:775px;
+		top:250px;		
+		}														
+	#prevBtn a, #nextBtn a{  
+		display:block;
+		width:29px;
+		height:50px;
+		background:url(../images/btnPrev.png) no-repeat 0 0;
+		transition:0.5s background;			
+		}	
+	#prevBtn a:hover{
+		background:url(../images/btnPrevHover.png) no-repeat 0 0;
+		transition:0.5s;					
+		}
+	#nextBtn a{ 
+		background:url(../images/btnNext.png) no-repeat 0 0;
+		transition:0.5s background;				
+		}	
+	#nextBtn a:hover{ 
+		background:url(../images/btnNextHover.png) no-repeat 0 0;
+		transition:0.5s;		
+		}															
+
+/* // Easy Slider */

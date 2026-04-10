@@ -1,0 +1,63 @@
+    /* image replacement */
+        .graphic, #prevBtn3, #nextBtn3{
+            margin:0;
+            padding:0;
+            display:block;
+			position:relative;
+            overflow:hidden;
+            text-indent:-8000px;
+            }
+    /* // image replacement */
+	
+
+/* Easy Slider */
+
+	#pageSlider{}	
+	#pageSlider ul, #pageSlider li{
+		margin:0;
+		padding:0;
+		list-style:none;
+	
+		}
+	#pageSlider li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+
+		overflow:hidden; 
+		}	
+	#prevBtn3, #nextBtn3{ 
+		display:block;
+		width:52px;
+		height:90px;
+		position:relative;
+		z-index:100;
+		left:20px;
+		top:-310px;
+		}	
+	#nextBtn3{ 
+		left:690px;
+		top:-400px;		
+		}														
+	#prevBtn3 a, #nextBtn3 a{  
+		display:block;
+		width:52px;
+		height:90px;
+		background:url(../images/prtfBtnBack.png) no-repeat 0 0;
+		transition:0.5s background;	
+		}	
+	#prevBtn3 a:hover{
+		background:url(../images/prtfBtnBackHover.png) no-repeat 0 0;
+		transition:0.5s;
+		}
+	#nextBtn3 a{ 
+		background:url(../images/prtfBtnNext.png) no-repeat 0 0;
+		transition:0.5s background;			
+		}	
+	#nextBtn3 a:hover{ 
+		background:url(../images/prtfBtnNextHover.png) no-repeat 0 0;	
+		transition:0.5s;		
+		}															
+
+/* // Easy Slider */

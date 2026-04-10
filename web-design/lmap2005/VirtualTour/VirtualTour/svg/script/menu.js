@@ -1,0 +1,1 @@
+var SVGDoc = null;function getObj(evt) {	SVGDoc = evt.getTarget().getOwnerDocument();}function elemColor(evt, elemName, color) {	getObj(evt);	var thisElem = SVGDoc.getElementById(elemName).getStyle();	thisElem.setProperty('fill', color);}

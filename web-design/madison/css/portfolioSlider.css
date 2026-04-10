@@ -1,0 +1,64 @@
+    /* image replacement */
+        .graphic, #prevBtn2, #nextBtn2{
+            margin:0;
+            padding:0;
+            display:block;
+			position:relative;
+            overflow:hidden;
+            text-indent:-8000px;
+            }
+    /* // image replacement */
+	
+
+/* Easy Slider */
+
+	#portfolioSlider{}	
+	#portfolioSlider ul, #portfolioSlider li{
+		margin:0;
+		padding:0;
+		list-style:none;
+	
+		}
+	#portfolioSlider li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+
+		overflow:hidden; 
+		}	
+	#prevBtn2, #nextBtn2{ 
+		display:block;
+		width:52px;
+		height:90px;
+		position:relative;
+		z-index:100;
+		left:20px;
+		top:-378px;
+		margin-bottom:-500px;
+		}	
+	#nextBtn2{ 
+		left:915px;
+		top:32px;		
+		}														
+	#prevBtn2 a, #nextBtn2 a{  
+		display:block;
+		width:52px;
+		height:90px;
+		background:url(../images/btnPrev2.png) no-repeat 0 0;
+		transition:0.5s background;	
+		}	
+	#prevBtn2 a:hover{
+		background:url(../images/btnPrevHover2.png) no-repeat 0 0;
+		transition:0.5s;
+		}
+	#nextBtn2 a{ 
+		background:url(../images/btnNext2.png) no-repeat 0 0;
+		transition:0.5s background;			
+		}	
+	#nextBtn2 a:hover{ 
+		background:url(../images/btnNextHover2.png) no-repeat 0 0;	
+		transition:0.5s;		
+		}															
+
+/* // Easy Slider */
