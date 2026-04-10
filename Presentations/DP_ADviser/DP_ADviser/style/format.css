@@ -1,0 +1,571 @@
+#wrapper {
+	margin:0 auto;
+	padding-top:7px;
+	font-size:24px;
+	font-family:Arial;
+	color:#fff;
+	height:40px;
+	min-height:40px;
+	max-height:40px;
+	display:table;
+	overflow:hidden;
+	}
+
+#ButtonlogoADviser {
+	float:left;
+	cursor:pointer;
+	padding:0px;
+	top:4px;
+	position:relative;
+	left:10px;
+	}		
+#ButtonlogoDigitalPro {
+	float:right;
+	cursor:pointer;
+	padding:0px;
+	top:14px;
+	position:relative;
+	right:10px;	
+	}		
+#Button1,#Button2,#Button3,#Button4,#Button5,#Button6,#Button7{float:left;cursor:pointer;padding:0px}	
+.ButtonSpacer{width:10px;float:left;border:1px solid #5f7a7d !important;background:none}	
+#accordionButton1 {	
+	float:left;
+	_float:none;  /* Float works in all browsers but IE6 */
+	cursor:pointer;
+	padding:0px 15px 1px 35px;
+	overflow:hidden;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:15px;
+	color:#FFF;
+	text-decoration:none;
+	position:relative;
+	left:-30px;
+	display:block;
+	overflow:hidden;
+	margin-right:-30px;
+	}
+#accordionButton1 div {
+	float:left;
+	margin:0px;
+	position:relative;
+	padding-top:2px;
+	padding-left:1px;
+	}
+#accordionButton2 {	
+	float:left;
+	_float:none;  /* Float works in all browsers but IE6 */
+	cursor:pointer;
+	padding:0px 15px 1px 35px;
+	overflow:hidden;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:1px;
+	color:#FFF;	
+	text-decoration:none;
+	position:relative;
+	left:-30px;
+	display:block;
+	overflow:hidden;
+	margin-right:-30px;
+	}
+#accordionButton2 div {
+	float:left;
+	margin:0px;
+	position:relative;
+	padding-top:2px;
+	padding-left:1px;	
+	}	
+#accordionButton3 {	
+	float:left;
+	_float:none;  /* Float works in all browsers but IE6 */
+	cursor:pointer;
+	padding:0px 15px 1px 35px;
+	overflow:hidden;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:16px;	
+	color:#FFF;
+	text-decoration:none;
+	position:relative;
+	left:-30px;
+	display:block;
+	overflow:hidden;
+	margin-right:-30px;
+	}
+#accordionButton3 div {
+	float:left;
+	margin:0px;
+	position:relative;
+	padding-top:2px;
+	padding-left:1px;	
+	}	
+#accordionButton4 {	
+	float:left;
+	_float:none;  /* Float works in all browsers but IE6 */
+	cursor:pointer;
+	padding:0px 15px 1px 35px;
+	overflow:hidden;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:16px;	
+	color:#FFF;
+	text-decoration:none;
+	position:relative;
+	left:-30px;
+	display:block;
+	overflow:hidden;
+	margin-right:-30px;
+	}
+#accordionButton4 div {
+	float:left;
+	margin:0px;
+	position:relative;
+	padding-top:2px;
+	padding-left:1px;	
+	}	
+#accordionButton5 {	
+	float:left;
+	_float:none;  /* Float works in all browsers but IE6 */
+	cursor:pointer;
+	padding:0px 15px 1px 35px;
+	overflow:hidden;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:16px;	
+	color:#FFF;
+	text-decoration:none;
+	position:relative;
+	left:-30px;
+	display:block;
+	overflow:hidden;
+	margin-right:-30px;
+	}
+#accordionButton5 div {
+	float:left;
+	margin:0px;
+	position:relative;
+	padding-top:2px;
+	padding-left:1px;	
+	}	
+#accordionButton6 {	
+	float:left;
+	_float:none;  /* Float works in all browsers but IE6 */
+	cursor:pointer;
+	padding:0px 15px 1px 35px;
+	overflow:hidden;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:16px;	
+	color:#FFF;
+	text-decoration:none;
+	position:relative;
+	left:-30px;
+	display:block;
+	overflow:hidden;
+	margin-right:-30px;
+	}
+#accordionButton6 div {
+	float:left;
+	margin:0px;
+	position:relative;
+	padding-top:2px;
+	padding-left:1px;	
+	}	
+#accordionButton7 {	
+	float:left;
+	_float:none;  /* Float works in all browsers but IE6 */
+	cursor:pointer;
+	padding:0px 15px 1px 35px;
+	overflow:hidden;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:16px;	
+	color:#FFF;
+	text-decoration:none;
+	position:relative;
+	left:-30px;
+	display:block;
+	overflow:hidden;
+	margin-right:-30px;
+	}
+#accordionButton7 div {
+	float:left;
+	margin:0px;
+	position:relative;
+	padding-top:2px;
+	padding-left:1px;	
+	}		
+	
+.accordionContent1 div, .accordionContent2 div, .accordionContent3 div, .accordionContent4 div, .accordionContent5 div, .accordionContent6 div, .accordionContent7 div {
+	background-color:#fff;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:15px;
+	padding:15px;
+	margin:0px;
+	font-size:0px;
+	float:left;
+	margin-left:4px;
+	}	
+	
+/* хак для оперы у выпадающих кружков меньше отступ*/	
+@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .accordionContent1 div {
+		padding:14px !important;
+		margin-bottom:2px;
+	}
+}
+@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .accordionContent2 div {
+		padding:14px !important; 
+		margin-bottom:2px;		
+	}
+}
+@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .accordionContent3 div {
+		padding:14px !important; 
+		margin-bottom:2px;		
+	}
+}
+@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .accordionContent4 div {
+		padding:14px !important; 
+		margin-bottom:2px;		
+	}
+}
+@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .accordionContent5 div {
+		padding:14px !important; 
+		margin-bottom:2px;		
+	}
+}
+@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .accordionContent6 div {
+		padding:14px !important; 
+		margin-bottom:2px;		
+	}
+}
+@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .accordionContent7 div {
+		padding:14px !important; 
+		margin-bottom:2px;		
+	}
+}
+
+.circleActive{background:#ed1847}
+
+/*
+.accordionContent1 a div:hover {
+	background:#ed1847;	
+}
+
+.accordionContent2 a div:hover {
+	background:#56e1ed;	
+}
+
+.accordionContent3 a div:hover {
+	background:#fdc635;	
+}	
+*/
+
+.accordionContent1 a div{background-color:#fff}
+.accordionContent2 a div{background-color:#fff}
+.accordionContent3 a div{background-color:#fff}
+.accordionContent4 a div{background-color:#fff}
+.accordionContent5 a div{background-color:#fff}
+.accordionContent6 a div{background-color:#fff}
+	
+.accordionContent1 {	
+	overflow:hidden;	
+	padding:0px;
+	margin-top:0px;
+	float:left;
+	_float:none; /* Float works in all browsers but IE6 */
+	 height:31px;
+	}
+.accordionContent1 a img{
+	border:0px;
+	}
+	
+.accordionContent2 {	
+	overflow:hidden;	
+	padding:0px;
+	margin-top:0px;
+	float:left;
+	_float:none; /* Float works in all browsers but IE6 */
+	 height:31px;
+	}
+.accordionContent2 a img{
+	border:0px;
+	}	
+	
+.accordionContent3 {	
+	overflow:hidden;	
+	padding:0px;
+	margin-top:0px;
+	float:left;
+	_float:none; /* Float works in all browsers but IE6 */
+	 height:31px;
+	}
+.accordionContent3 a img{
+	border:0px;
+	}	
+	
+.accordionContent4 {	
+	overflow:hidden;	
+	padding:0px;
+	margin-top:0px;
+	float:left;
+	_float:none; /* Float works in all browsers but IE6 */
+	 height:31px;
+	}
+.accordionContent4 a img{
+	border:0px;
+	}		
+	
+.accordionContent5 {	
+	overflow:hidden;	
+	padding:0px;
+	margin-top:0px;
+	float:left;
+	_float:none; /* Float works in all browsers but IE6 */
+	 height:31px;
+	}
+.accordionContent5 a img{
+	border:0px;
+	}		
+	
+.accordionContent6 {	
+	overflow:hidden;	
+	padding:0px;
+	margin-top:0px;
+	float:left;
+	_float:none; /* Float works in all browsers but IE6 */
+	 height:31px;
+	}
+.accordionContent6 a img{
+	border:0px;
+	}			
+	
+.accordionContent7 {	
+	overflow:hidden;	
+	padding:0px;
+	margin-top:0px;
+	float:left;
+	_float:none; /* Float works in all browsers but IE6 */
+	 height:31px;
+	}
+.accordionContent7 a img{
+	border:0px;
+	}		
+	
+	
+.title {
+	background:none;
+	margin-top:2px;
+	padding-left:0px;
+	text-decoration:none;
+	}	
+	
+	
+.on1 {
+	color:#fff !important;
+	background:#272727 !important;	
+	}
+.on2 {
+	color:#fff !important;
+	background:#272727 !important;
+	}
+.on3 {
+	color:#fff !important;
+	background:#272727 !important;
+	}
+.on4 {
+	color:#fff !important;
+	background:#272727 !important;
+	}
+.on5 {
+	color:#fff !important;
+	background:#272727 !important;
+	}		
+.on6 {
+	color:#fff !important;
+	background:#272727 !important;
+	}	
+.on7 {
+	color:#fff !important;
+	background:#272727 !important;
+	}		
+	
+.on {
+	border:1px solid red;
+	}	
+
+.on1 .circleBorder, .on2 .circleBorder, .on3 .circleBorder, .on4 .circleBorder, .on5 .circleBorder, .on6 .circleBorder, .on7 .circleBorder {
+	border:3px solid white !important;
+	float:left !important;
+	}
+	
+.on1 .title {
+	padding-left:0px;
+	}	
+.on2 .title {
+	padding-left:0px;
+	}	
+.on3 .title {
+	padding-left:0px;
+	}	
+.on4 .title {
+	padding-left:0px;
+	}	
+.on5 .title {
+	padding-left:0px;
+	}
+.on6 .title {
+	padding-left:0px;
+	}
+.on7 .title {
+	padding-left:0px;
+	}						
+	
+	
+.circle1 {
+	padding:2px 8px 2px 8px !important;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:16px;	
+	float:left;
+	position:relative;
+	z-index:100;
+	left:0px;
+	color:#272727;
+	text-decoration:none;
+	left:-1px;
+	}	
+.circle2 {
+	padding:2px 8px 2px 8px !important;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:16px;	
+	float:left;
+	position:relative;
+	z-index:100;
+	left:0px;
+	color:#272727;	
+	text-decoration:none;	
+	}	
+.circle3 {
+	padding:2px 8px 2px 8px !important;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:16px;	
+	float:left;
+	position:relative;
+	z-index:100;
+	left:0px;
+	color:#272727;	
+	text-decoration:none;	
+	}				
+.circle4 {
+	padding:2px 8px 2px 8px !important;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:16px;	
+	float:left;
+	position:relative;
+	z-index:100;
+	left:0px;
+	color:red;	
+	text-decoration:none;	
+	}
+.circle5 {
+	padding:2px 8px 2px 8px !important;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:16px;	
+	float:left;
+	position:relative;
+	z-index:100;
+	left:0px;
+	color:blue;	
+	text-decoration:none;	
+	}		
+.circle6 {
+	padding:2px 8px 2px 8px !important;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:16px;	
+	float:left;
+	position:relative;
+	z-index:100;
+	left:0px;
+	color:blue;	
+	text-decoration:none;	
+	}	
+.circle7 {
+	padding:2px 8px 2px 8px !important;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:16px;	
+	float:left;
+	position:relative;
+	z-index:100;
+	left:0px;
+	color:blue;	
+	text-decoration:none;	
+	}	
+	
+.circleBorder1 {
+	background:#46c7f4;
+	border:2px solid white !important;	
+	top:-2px;	
+	}
+	
+.circleBorder2 {
+	background:#46c7f4;	
+	border:2px solid white !important;	
+	top:-2px;		
+	}
+.circleBorder3 {
+	background:#46c7f4;	
+	border:2px solid white !important;	
+	top:-2px;		
+	}
+.circleBorder4 {
+	background:#46c7f4;	
+	border:2px solid white !important;	
+	top:-2px;		
+	}
+.circleBorder5 {
+	background:#CF3;	
+	border:2px solid white !important;	
+	top:-2px;		
+	}
+.circleBorder6 {
+	background:#CF3;	
+	border:2px solid white !important;	
+	top:-2px;		
+	}	
+.circleBorder7 {
+	background:#CF3;	
+	border:2px solid white !important;	
+	top:-2px;		
+	}				
+.over {}

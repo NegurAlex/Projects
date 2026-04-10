@@ -1,0 +1,23 @@
+body {
+	margin:0px;
+	padding:0px;
+	font-family:arial;
+	}
+#menu {
+	margin:0 auto;
+	margin-top:0px;
+	min-width:700px;	
+	width:100%;
+	height:44px;
+	background-color:#5f7a7d;	
+	padding-top:2px;
+	position:absolute;
+	}
+	
+.img {
+	border:0px;
+	}
+.clear {
+	clear:both;
+	}	
+a { text-decoration: none } 	

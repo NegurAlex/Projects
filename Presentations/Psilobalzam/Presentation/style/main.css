@@ -1,0 +1,22 @@
+body {
+	margin:0px;
+	padding:0px;
+	font-family:arial;
+	}
+#menu {
+	margin:0 auto;
+	margin-top:0px;
+	min-width:700px;	
+	width:100%;
+	height:46px;
+	background-color:#2451a3;	
+	padding-top:4px;
+	position:absolute;
+	}
+.img {
+	border:0px;
+	}
+.clear {
+	clear:both;
+	}	
+a { text-decoration: none } 	

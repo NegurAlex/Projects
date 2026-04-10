@@ -1,0 +1,356 @@
+#wrapper {
+	margin:0 auto;
+	padding-top:7px;
+	font-size:24px;
+	color:#ffffff;
+	height:40px;
+	min-height:40px;
+	max-height:40px;
+	display:table;
+	overflow:hidden;
+	}
+	
+#Button0 {
+	float:left;
+	cursor:pointer;
+	padding:0px;
+	}		
+	
+#Button1 {
+	float:left;
+	cursor:pointer;
+	padding:0px;
+	}	
+	
+#Button2 {
+	float:left;
+	cursor:pointer;	
+	padding:0px;
+	}	
+#Button3 {
+	float:left;
+	cursor:pointer;	
+	padding:0px;
+	}	
+.ButtonSpacer {
+	width:40px;
+	float:left;
+	border:1px solid #2451a3;
+	}	
+	
+#accordionButton1 {	
+	float:left;
+	_float:none;  /* Float works in all browsers but IE6 */
+	cursor:pointer;
+	padding:0px 15px 1px 35px;
+	overflow:hidden;
+	border-radius:18px; 
+	-webkit-border-radius:18px; 
+	-moz-border-radius:18px; 
+	-khtml-border-radius:18px;
+	color:#FFF;
+	text-decoration:none;
+	position:relative;
+	left:-30px;
+	display:block;
+	overflow:hidden;
+	margin-right:-30px;
+	}
+	
+#accordionButton1 div {
+	float:left;
+	margin:0px;
+	position:relative;
+	}
+#accordionButton2 {	
+	float:left;
+	_float:none;  /* Float works in all browsers but IE6 */
+	cursor:pointer;
+	padding:0px 15px 1px 35px;
+	overflow:hidden;
+	border-radius:18px; 
+	-webkit-border-radius:18px; 
+	-moz-border-radius:18px; 
+	-khtml-border-radius:18px;
+	color:#FFF;	
+	text-decoration:none;
+	position:relative;
+	left:-30px;
+	display:block;
+	overflow:hidden;
+	margin-right:-30px;
+	}
+#accordionButton2 div {
+	float:left;
+	margin:0px;
+	position:relative;
+	}	
+#accordionButton3 {	
+	float:left;
+	_float:none;  /* Float works in all browsers but IE6 */
+	cursor:pointer;
+	padding:0px 15px 1px 35px;
+	overflow:hidden;
+	border-radius:18px; 
+	-webkit-border-radius:18px; 
+	-moz-border-radius:18px; 
+	-khtml-border-radius:18px;	
+	color:#FFF;
+	text-decoration:none;
+	position:relative;
+	left:-30px;
+	display:block;
+	overflow:hidden;
+	margin-right:-30px;
+	}
+#accordionButton3 div {
+	float:left;
+	margin:0px;
+	position:relative;
+	}	
+	
+.accordionButton1 div {
+	}	
+.accordionButton2 div {
+	}	
+.accordionButton3 div {
+	}			
+	
+.accordionContent1 div {
+	background-color:#ffffff;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:15px;
+	padding:15px;
+	margin:0px;
+	font-size:0px;
+	float:left;
+	margin-left:9px;
+	}	
+	
+.accordionContent2 div {
+	background-color:#ffffff;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:15px;
+	padding:15px;
+	margin:0px;
+	font-size:0px;
+	float:left;
+	margin-left:9px;
+	}
+	
+.accordionContent3 div {
+	background-color:#ffffff;
+	border-radius:15px; 
+	-webkit-border-radius:15px; 
+	-moz-border-radius:15px; 
+	-khtml-border-radius:15px;
+	padding:15px;
+	margin:0px;
+	font-size:0px;
+	float:left;
+	margin-left:9px;
+	}	
+	
+	
+/* хак для оперы у выпадающих кружков меньше отступ*/	
+
+@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .accordionContent1 div {
+		padding:10px !important;
+		margin-bottom:2px;
+	}
+}
+@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .accordionContent2 div {
+		padding:10px !important; 
+		margin-bottom:2px;		
+	}
+}
+@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .accordionContent3 div {
+		padding:10px !important; 
+		margin-bottom:2px;		
+	}
+}
+
+
+	
+	
+		
+
+.circleActive
+{
+	background:#ed1847;
+}
+
+/*
+.accordionContent1 a div:hover {
+	background:#ed1847;	
+}
+
+.accordionContent2 a div:hover {
+	background:#56e1ed;	
+}
+
+.accordionContent3 a div:hover {
+	background:#fdc635;	
+}	
+*/
+
+.accordionContent1 a div{
+	background-color: #ffffff;	
+}
+
+.accordionContent2 a div{
+	background-color: #ffffff;	
+}
+
+.accordionContent3 a div{
+	background-color: #ffffff;	
+}
+
+
+	
+	
+	
+.accordionContent1 {	
+	overflow:hidden;	
+	padding:0px;
+	margin-top:0px;
+	float:left;
+	_float:none; /* Float works in all browsers but IE6 */
+	 height:31px;
+	}
+.accordionContent1 a img{
+	border:0px;
+	}
+	
+.accordionContent2 {	
+	overflow:hidden;	
+	padding:0px;
+	margin-top:0px;
+	float:left;
+	_float:none; /* Float works in all browsers but IE6 */
+	 height:31px;
+	}
+.accordionContent2 a img{
+	border:0px;
+	}	
+	
+.accordionContent3 {	
+	overflow:hidden;	
+	padding:0px;
+	margin-top:0px;
+	float:left;
+	_float:none; /* Float works in all browsers but IE6 */
+	 height:31px;
+	}
+.accordionContent3 a img{
+	border:0px;
+	}	
+	
+	
+.title {
+	background:none;
+	margin-top:2px;
+	padding-left:0px;
+	text-decoration:none;
+	}	
+	
+	
+.on1 {
+	background:#ed1847 !important;
+	}
+.on2 {
+	color:#2451a3 !important;
+	background:#56e1ed !important;
+	}
+.on3 {
+	color:#2451a3 !important;
+	background:#fdc635 !important;
+	}
+	
+.on {
+	border:1px solid red;
+	}	
+
+.on1 .circleBorder, .on2 .circleBorder, .on3 .circleBorder {
+	border:3px solid white !important;
+	float:left !important;
+	}
+	
+.on1 .title {
+	padding-left:0px;
+	}	
+.on2 .title {
+	padding-left:0px;
+	}	
+.on3 .title {
+	padding-left:0px;
+	}	
+	
+.circle1 {
+	padding:0px 8px 0px 8px !important;
+	border-radius:20px; 
+	-webkit-border-radius:20px; 
+	-moz-border-radius:20px; 
+	-khtml-border-radius:20px;	
+	float:left;
+	position:relative;
+	z-index:100;
+	left:0px;
+	color:#FFF;
+	text-decoration:none;
+	}	
+.circle2 {
+	padding:0px 8px 0px 8px !important;
+	border-radius:20px; 
+	-webkit-border-radius:20px; 
+	-moz-border-radius:20px; 
+	-khtml-border-radius:20px;	
+	float:left;
+	position:relative;
+	z-index:100;
+	left:0px;
+	color:#2451a3F;	
+	text-decoration:none;	
+	}	
+.circle3 {
+	padding:0px 8px 0px 8px !important;
+	border-radius:20px; 
+	-webkit-border-radius:20px; 
+	-moz-border-radius:20px; 
+	-khtml-border-radius:20px;	
+	float:left;
+	position:relative;
+	z-index:100;
+	left:0px;
+	color:#2451a3;	
+	text-decoration:none;	
+	}				
+	
+.circleBorder1 {
+	background:#ed1847;
+	border:3px solid white !important;	
+	top:-3px;		
+	}
+	
+.circleBorder2 {
+	background:#56e1ed;	
+	border:3px solid white !important;	
+	top:-3px;		
+	}
+.circleBorder3 {
+	background:#fdc635;	
+	border:3px solid white !important;	
+	top:-3px;		
+	}
+
+
+.over {
+
+	}

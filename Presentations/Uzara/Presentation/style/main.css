@@ -1,0 +1,13 @@
+body {
+	margin:0px;
+	padding:0px;
+	font-family:arial;
+	}
+
+.img {
+	border:0px;
+	}
+.clear {
+	clear:both;
+	}	
+a { text-decoration: none } 	
